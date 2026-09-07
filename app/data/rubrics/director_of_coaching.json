@@ -1,0 +1,367 @@
+{
+  "role": "Director of Coaching",
+  "purpose": "Developer-ready position-specific scoring rubric",
+  "question_count": 18,
+  "evaluation_approach": "The AI must evaluate each response specifically for the Director of Coaching position. It must assess coaching philosophy, methodology, coach development, curriculum implementation, player-pathway alignment, quality assurance, collaboration, safeguarding and leadership judgment. There is no single required formation, curriculum brand, licensing system or coaching style. Core principle: A strong response explains how coaching standards are defined, taught, observed, supported and improved across teams while preserving age-appropriate practice, coach ownership and player welfare.",
+  "scoring_scale": [
+    {
+      "score": 4,
+      "classification": "Strong",
+      "meaning": "Role-specific, clear and supported by a relevant process, example or evidence"
+    },
+    {
+      "score": 3,
+      "classification": "Good",
+      "meaning": "Relevant and developed, but missing some depth, verification or outcome"
+    },
+    {
+      "score": 2,
+      "classification": "Acceptable",
+      "meaning": "Basic understanding, but generic, incomplete or weakly evidenced"
+    },
+    {
+      "score": 1,
+      "classification": "Weak",
+      "meaning": "Vague, minimally relevant, impractical or unsupported"
+    },
+    {
+      "score": 0,
+      "classification": "Incorrect / concerning",
+      "meaning": "Does not answer the question or reveals serious safety, ethical, technical or professional concerns"
+    }
+  ],
+  "mandatory_scoring_rules": [
+    "Score against Director of Coaching expectations, not Technical Director, Head Coach, Academy Director or general Club Administrator criteria.",
+    "Prioritize coach development, methodology implementation and coaching quality; do not require responsibility for all sporting strategy or recruitment.",
+    "Do not require one specific formation, curriculum, licensing pathway or coaching method; evaluate clarity, context and implementation.",
+    "For questions requesting a real situation, do not award 4/4 without the situation, action and outcome.",
+    "Reward age-appropriate alignment across teams; do not require identical tactics, sessions or coaching styles at every level.",
+    "Do not infer qualifications, safeguarding clearance, authority, impact or data literacy that the candidate did not demonstrate.",
+    "Flag contradictions between the written questionnaire and video response, but do not treat a contradiction alone as proof of dishonesty.",
+    "Do not reward humiliating, discriminatory, unsafe or punitive coaching practices, or promises of player and coach progression.",
+    "Do not score accent, grammar, appearance, age, gender, ethnicity, disability or production quality. Evaluate response content only."
+  ],
+  "sections": [
+    {
+      "section_name": "A. Background & Role Definition",
+      "questions": [
+        {
+          "question": "Can you describe your professional background and pathway to becoming a Director of Coaching?",
+          "evaluates": "Relevant preparation, leadership progression and coaching-system experience.",
+          "strong_answer_criteria": [
+            "Identifies relevant coaching, education, licensing, mentoring, curriculum or club-leadership experience.",
+            "Explains progression from team delivery to responsibility for multiple coaches, teams or age groups.",
+            "Connects prior responsibilities to coach development, methodology and quality assurance.",
+            "Shows continuing learning and does not rely only on titles or years of service."
+          ],
+          "acceptable": "Describes relevant experience but gives limited detail about scale, responsibilities or progression.",
+          "weak_or_concerning": "Lists licenses or roles without explaining actual contribution, or presents team-coaching success as sufficient proof of club-wide leadership."
+        },
+        {
+          "question": "What is your coaching philosophy, and how has it evolved over time?",
+          "evaluates": "Philosophical clarity, evidence of learning and practical application.",
+          "strong_answer_criteria": [
+            "States clear beliefs about learning, player development, competition, relationships and coaching behavior.",
+            "Explains how the philosophy influences session design, feedback, playing opportunity and coach support.",
+            "Identifies specific experiences or evidence that changed earlier assumptions.",
+            "Allows contextual adaptation while preserving coherent principles."
+          ],
+          "acceptable": "Explains positive coaching beliefs and some evolution but gives limited practical application or evidence.",
+          "weak_or_concerning": "Uses generic slogans, copies a fashionable model, or cannot identify how beliefs affect coaching practice."
+        },
+        {
+          "question": "How do you define the role and responsibilities of a Director of Coaching within a club or organization?",
+          "evaluates": "Role clarity, governance and boundaries.",
+          "strong_answer_criteria": [
+            "Defines responsibility for coaching standards, curriculum, coach recruitment, education, observation and support.",
+            "Explains oversight across teams and age groups with appropriate safeguarding and quality controls.",
+            "Distinguishes the role from Technical Director strategy and individual Head Coach match authority.",
+            "Recognizes reporting lines, resources, documentation and collaboration with club leadership."
+          ],
+          "acceptable": "Identifies coach management and methodology responsibilities but leaves governance or boundaries unclear.",
+          "weak_or_concerning": "Describes only coaching one team, claims unlimited technical authority or reduces the role to scheduling and administration."
+        }
+      ]
+    },
+    {
+      "section_name": "B. Technical & Tactical Expertise",
+      "questions": [
+        {
+          "question": "How do you evaluate tactical consistency across teams within the club?",
+          "evaluates": "Club-wide observation and age-appropriate tactical alignment.",
+          "strong_answer_criteria": [
+            "Defines observable principles by phase of play instead of requiring identical formations.",
+            "Uses training visits, match observation, plans, video and coach discussion across a planned cycle.",
+            "Allows age-, level- and context-appropriate variation while protecting shared principles.",
+            "Turns findings into coaching support, follow-up and documented improvement actions."
+          ],
+          "acceptable": "Describes observation and common principles but lacks indicators, cadence or age adaptation.",
+          "weak_or_concerning": "Equates consistency with one formation, judges through results alone or imposes first-team detail on all age groups."
+        },
+        {
+          "question": "How do you ensure technical and tactical standards are implemented by coaches?",
+          "evaluates": "Standards communication, support and accountable follow-through.",
+          "strong_answer_criteria": [
+            "Translates standards into clear age-group outcomes, training behaviors and observable game principles.",
+            "Uses induction, curriculum resources, model sessions, mentoring and regular observation.",
+            "Provides specific feedback, improvement targets, resources and reasonable timelines.",
+            "Verifies implementation and distinguishes misunderstanding, resource limits and deliberate non-alignment."
+          ],
+          "acceptable": "Uses meetings, curriculum and observation but gives limited follow-up or support detail.",
+          "weak_or_concerning": "Issues standards without development support, evaluates only on wins or micromanages every coaching decision."
+        },
+        {
+          "question": "How do you analyze player and team performance data to guide coaching decisions?",
+          "evaluates": "Data literacy, contextual interpretation and coaching usefulness.",
+          "strong_answer_criteria": [
+            "Starts with a coaching or development question and selects relevant indicators.",
+            "Combines data with video, observation, role, age, maturation where relevant and competition context.",
+            "Checks data quality, sample size and limitations before drawing conclusions.",
+            "Converts findings into training priorities, player plans or coach reflection and reviews the effect."
+          ],
+          "acceptable": "Uses data and observation to inform coaching but gives limited validation, context or action.",
+          "weak_or_concerning": "Treats one metric as definitive, uses data to rank youth prematurely or confuses correlation with causation."
+        }
+      ]
+    },
+    {
+      "section_name": "C. Club Philosophy & Methodology",
+      "questions": [
+        {
+          "question": "How do you design and implement a unified playing philosophy across all age groups?",
+          "evaluates": "Philosophy design, developmental progression and implementation.",
+          "strong_answer_criteria": [
+            "Defines observable principles in possession, defending, transitions and set plays.",
+            "Creates age-appropriate progressions rather than identical tactics or formations.",
+            "Connects the philosophy to curriculum, coach education, player profiles and assessment.",
+            "Pilots, communicates, observes and reviews implementation with stakeholder feedback."
+          ],
+          "acceptable": "Describes shared principles and age adaptation but gives limited implementation or review detail.",
+          "weak_or_concerning": "Copies another club, mandates identical tactics at every age or presents a document without an implementation process."
+        },
+        {
+          "question": "What principles guide your coaching methodology in training and competition?",
+          "evaluates": "Coherent learning methodology and player-centered practice.",
+          "strong_answer_criteria": [
+            "Explains principles for objective-led design, realism, repetition, variability, feedback and player decision-making.",
+            "Balances development, challenge, enjoyment, welfare and competitive demands.",
+            "Adapts methods to age, ability, training age, context and session purpose.",
+            "Uses observation and reflection to adjust practice rather than following activities mechanically."
+          ],
+          "acceptable": "Names relevant training principles but provides limited connection to competition or adaptation.",
+          "weak_or_concerning": "Relies on drills without objectives, uses punitive coaching or treats one method as appropriate for every player and context."
+        },
+        {
+          "question": "How do you ensure consistency while allowing coaches autonomy at different levels?",
+          "evaluates": "Leadership balance, minimum standards and professional trust.",
+          "strong_answer_criteria": [
+            "Defines non-negotiable principles, safeguarding expectations and required development outcomes.",
+            "Gives coaches autonomy over methods, session solutions and appropriate tactical detail.",
+            "Uses planning conversations, observation and reflective questions instead of constant prescription.",
+            "Intervenes proportionately when evidence shows risk, persistent non-alignment or support needs."
+          ],
+          "acceptable": "Recognizes shared standards and coach freedom but leaves boundaries or intervention criteria unclear.",
+          "weak_or_concerning": "Allows complete inconsistency, or controls every session and removes coach ownership and creativity."
+        }
+      ]
+    },
+    {
+      "section_name": "D. Coach Development & Management",
+      "questions": [
+        {
+          "question": "How do you recruit, develop and evaluate coaches within the organization?",
+          "evaluates": "End-to-end coach workforce management.",
+          "strong_answer_criteria": [
+            "Uses role profiles covering qualifications, behaviors, experience, availability and age-group fit.",
+            "Applies structured, fair selection with references and required safeguarding verification.",
+            "Provides induction, mentoring, observation, feedback and development objectives.",
+            "Uses periodic evaluation and transparent improvement or performance-management processes."
+          ],
+          "acceptable": "Describes recruitment, support and reviews but provides limited structure or fairness controls.",
+          "weak_or_concerning": "Recruits mainly through contacts, skips safeguarding checks, evaluates only results or removes coaches without documented support."
+        },
+        {
+          "question": "What tools or indicators do you use to assess coaching performance?",
+          "evaluates": "Balanced coach evaluation and evidence quality.",
+          "strong_answer_criteria": [
+            "Uses planning quality, learning environment, communication, player engagement, session adaptation and standards implementation.",
+            "Combines observation, coach reflection, player-development evidence and appropriate feedback sources.",
+            "Uses agreed criteria, multiple observations and contextual interpretation.",
+            "Separates development feedback from formal performance decisions and records follow-up."
+          ],
+          "acceptable": "Uses observation and development indicators but lacks triangulation, consistency or follow-up.",
+          "weak_or_concerning": "Measures only wins, player popularity or personal style, or makes decisions from one visit or anonymous complaints alone."
+        },
+        {
+          "question": "How do you support coaches in their professional development and licensing pathway?",
+          "evaluates": "Individualized development, mentoring and realistic progression support.",
+          "strong_answer_criteria": [
+            "Creates individual development plans based on role needs, observation, goals and career stage.",
+            "Uses mentoring, co-planning, model sessions, peer learning, resources and purposeful assignments.",
+            "Helps coaches understand licensing options and required experience without guaranteeing outcomes.",
+            "Reviews application of learning and adjusts support over time."
+          ],
+          "acceptable": "Offers courses, feedback and mentoring but gives limited individualization or transfer review.",
+          "weak_or_concerning": "Treats licensing as the only development measure, promises certification or provides training without follow-up."
+        }
+      ]
+    },
+    {
+      "section_name": "E. Player Development Framework",
+      "questions": [
+        {
+          "question": "How do you align player-development objectives with long-term performance outcomes?",
+          "evaluates": "Pathway planning and balance between development and competition.",
+          "strong_answer_criteria": [
+            "Defines age- and stage-appropriate competencies linked to the club pathway and playing philosophy.",
+            "Uses individual plans, training objectives, playing opportunities and longitudinal review.",
+            "Balances current team contribution with longer-term learning and avoids early outcome bias.",
+            "Coordinates coaches and specialists while stating realistic uncertainty about future level."
+          ],
+          "acceptable": "Links development plans to pathway goals but gives limited review, opportunity or trade-off detail.",
+          "weak_or_concerning": "Prioritizes winning at all costs, promises progression or uses current physical dominance as the main potential measure."
+        },
+        {
+          "question": "How do you integrate physical, technical, tactical and mental development into a single framework?",
+          "evaluates": "Holistic planning and interdisciplinary boundaries.",
+          "strong_answer_criteria": [
+            "Defines interacting development outcomes rather than four disconnected departments.",
+            "Coordinates football training, individual work, physical development and age-appropriate behavioral support.",
+            "Uses shared plans, terminology, review points and clear specialist responsibilities.",
+            "Avoids unsupported psychological diagnosis and respects medical and professional scope."
+          ],
+          "acceptable": "Describes integrated planning and staff collaboration but gives limited ownership or practical sequencing.",
+          "weak_or_concerning": "Treats dimensions as isolated checklists, makes clinical claims or overloads players with uncoordinated programs."
+        },
+        {
+          "question": "How do you manage transitions between age groups and competitive levels?",
+          "evaluates": "Pathway continuity, readiness and transition support.",
+          "strong_answer_criteria": [
+            "Defines readiness through role-relevant behavior, development trajectory and next-level demands.",
+            "Uses shared player records, joint observations, handover meetings and planned exposure.",
+            "Coordinates communication with players, families and coaches appropriately.",
+            "Provides support, review and alternative pathways rather than treating promotion as a one-time judgment."
+          ],
+          "acceptable": "Uses assessments and staff handovers but gives limited transition support or review.",
+          "weak_or_concerning": "Promotes only by age or results, promises advancement, shares sensitive information casually or provides no support after movement."
+        }
+      ]
+    },
+    {
+      "section_name": "F. Leadership, Structure & Evaluation",
+      "questions": [
+        {
+          "question": "How do you collaborate with Technical Directors, performance staff and management?",
+          "evaluates": "Cross-functional governance and role alignment.",
+          "strong_answer_criteria": [
+            "Clarifies shared objectives, decision rights, meeting cadence and escalation routes.",
+            "Connects coaching delivery with technical strategy, player welfare, resources and organizational priorities.",
+            "Uses evidence and documented actions to resolve competing needs.",
+            "Protects coach responsibilities while seeking specialist input and maintaining confidentiality."
+          ],
+          "acceptable": "Describes regular collaboration and aligned planning but leaves decision rights or conflict resolution unclear.",
+          "weak_or_concerning": "Works in isolation, bypasses responsible staff or allows management pressure to replace player-centered coaching judgment."
+        },
+        {
+          "question": "How do you measure the success of the coaching program at both individual and collective levels?",
+          "evaluates": "Balanced program evaluation and continuous improvement.",
+          "strong_answer_criteria": [
+            "Uses coach growth, curriculum implementation, learning environment, player progression, pathway movement and retention indicators.",
+            "Combines quantitative trends, observation, feedback and longitudinal evidence.",
+            "Recognizes that match results have multiple causes and avoids claiming direct causation.",
+            "Uses findings to improve staffing, education, curriculum and resource allocation."
+          ],
+          "acceptable": "Mentions coach and player development beyond results but gives limited measurement or review cadence.",
+          "weak_or_concerning": "Measures success only through league position, licenses obtained or satisfaction scores, or cannot connect evidence to improvement."
+        },
+        {
+          "question": "If you were appointed today, what would be your priorities in the first 90 days?",
+          "evaluates": "Diagnostic planning, prioritization and change leadership.",
+          "strong_answer_criteria": [
+            "Begins with listening, safeguarding and compliance checks, role clarification and observation of current practice.",
+            "Maps coaches, teams, curriculum, resources, player pathway and urgent risks before major change.",
+            "Defines a small number of priorities, owners, timelines and communication routines.",
+            "Delivers early support while producing an evidence-based longer-term plan and review point."
+          ],
+          "acceptable": "Proposes assessment, meetings and initial priorities but gives limited sequencing, ownership or risk attention.",
+          "weak_or_concerning": "Immediately replaces systems or coaches without diagnosis, promises rapid transformation or focuses on branding before player and coach needs."
+        }
+      ]
+    }
+  ],
+  "score_bands": [
+    {
+      "range": "61-72",
+      "percentage": "84.7-100%",
+      "interpretation": "Strong evidence of position readiness"
+    },
+    {
+      "range": "49-60",
+      "percentage": "68.1-83.3%",
+      "interpretation": "Good evidence; some development areas"
+    },
+    {
+      "range": "36-48",
+      "percentage": "50.0-66.7%",
+      "interpretation": "Basic / acceptable; evidence or depth is limited"
+    },
+    {
+      "range": "22-35",
+      "percentage": "30.6-48.6%",
+      "interpretation": "Weak evidence; significant follow-up required"
+    },
+    {
+      "range": "0-21",
+      "percentage": "0-29.2%",
+      "interpretation": "Insufficient or concerning evidence"
+    }
+  ],
+  "consistency_classification": [
+    {
+      "label": "Consistent",
+      "meaning": "The video supports and meaningfully expands the written response."
+    },
+    {
+      "label": "Partially consistent",
+      "meaning": "The central idea matches, but important coaching detail, process, evidence or implementation is missing."
+    },
+    {
+      "label": "Contradictory",
+      "meaning": "The video materially conflicts with a relevant written statement, creating uncertainty about the candidate’s actual experience, philosophy, authority or position."
+    },
+    {
+      "label": "Unsupported claim",
+      "meaning": "The candidate claims qualifications, coach-development impact or program success without relevant explanation or verifiable support."
+    },
+    {
+      "label": "Role mismatch",
+      "meaning": "The answer may be positive generally but describes Technical Director, Head Coach, Academy Director or unrelated responsibilities instead of this role."
+    },
+    {
+      "label": "Insufficient evidence",
+      "meaning": "The response is too vague, incomplete or inaudible to evaluate confidently."
+    }
+  ],
+  "critical_human_review_flags": [
+    "Ignoring, minimizing or concealing safeguarding, bullying, discriminatory conduct, injury or unsafe coaching practice.",
+    "Humiliating, threatening, coercive, discriminatory or developmentally inappropriate treatment of players or coaches.",
+    "Materially false or contradictory claims about qualifications, licenses, experience, authority or program impact.",
+    "Recruiting or retaining coaches without required identity, reference, safeguarding or background verification.",
+    "Evaluating coaches only through results, favoritism or one isolated observation while presenting the decision as objective.",
+    "Sharing confidential player, family, coach, medical, performance or employment information without authorization.",
+    "Using identical adult standards across youth age groups without regard to learning, maturation, welfare or context.",
+    "Routine micromanagement, public undermining of coaches or failure to act on persistent unsafe and non-compliant practice."
+  ],
+  "required_output_fields": [
+    {
+      "field": "Score",
+      "description": "Integer from 0 to 4, based only on demonstrated response content."
+    }
+  ],
+  "implementation_controls": [
+    "Calculate the overall score only after all available responses have been scored; preserve unanswered questions as missing evidence.",
+    "Keep role-readiness classification separate from certification, reference, safeguarding and legal verification.",
+    "Do not automatically reject a candidate because of one low score or one contradiction; route material concerns and low-confidence cases to human review.",
+    "Log the rubric version, question ID, evidence span and human override reason so assessments remain auditable."
+  ]
+}

@@ -1,0 +1,304 @@
+{
+  "role": "Amateur Assistant Coach",
+  "purpose": "Position-specific questionnaire and developer-ready AI scoring criteria",
+  "question_count": 15,
+  "evaluation_approach": "The AI must evaluate each response specifically for the Amateur Assistant Coach position. It should prioritize reliability, practical support, player supervision, age-appropriate communication, safety, teamwork and respect for the lead coach’s direction. It must not apply professional first-team Assistant Coach, Head Coach or Office Staff criteria. Core principle: A strong candidate demonstrates that they can make training and match days safer, more organized and more effective without seeking authority beyond the responsibilities assigned by the club or lead coach.",
+  "scoring_scale": [
+    {
+      "score": 4,
+      "classification": "Strong",
+      "meaning": "Role-specific, practical and supported by a clear process or relevant example"
+    },
+    {
+      "score": 3,
+      "classification": "Good",
+      "meaning": "Relevant and developed, but missing some detail, evidence or follow-through"
+    },
+    {
+      "score": 2,
+      "classification": "Acceptable",
+      "meaning": "Basic understanding, but generic, incomplete or weakly evidenced"
+    },
+    {
+      "score": 1,
+      "classification": "Weak",
+      "meaning": "Vague, impractical, minimally relevant or shows limited role understanding"
+    },
+    {
+      "score": 0,
+      "classification": "Incorrect / concerning",
+      "meaning": "Does not answer the question or reveals serious safety, safeguarding, ethical or professional concerns"
+    }
+  ],
+  "mandatory_scoring_rules": [
+    "Score against Amateur Assistant Coach expectations, not professional first-team Assistant Coach, Head Coach or Office Staff criteria.",
+    "Do not require advanced tactical analysis, opponent scouting, a game model or independent session planning.",
+    "Reward practical reliability, safe supervision, constructive communication and willingness to support ordinary club duties.",
+    "For questions requesting a process or situation, a 4/4 response should explain what the candidate would do, how and why.",
+    "Do not reward blind obedience when an instruction creates a safety, safeguarding or legal concern; appropriate escalation is positive evidence.",
+    "Do not assume that coaching certificates, transport authorization, background checks or safeguarding clearance exist unless verified separately.",
+    "Flag material contradictions between questionnaire and video, but do not treat contradiction alone as proof of dishonesty.",
+    "Do not score accent, grammar, appearance, age, gender, ethnicity, disability or video production quality. Evaluate relevant content only."
+  ],
+  "sections": [
+    {
+      "section_name": "A. Background and Motivation",
+      "questions": [
+        {
+          "question": "Tell us about your soccer, coaching, or youth-development experience.",
+          "evaluates": "Relevant experience and transferable preparation.",
+          "strong_answer_criteria": [
+            "Identifies specific soccer, coaching, education, volunteering or youth-work experience.",
+            "Explains actual responsibilities, age groups and environments.",
+            "Connects prior experience to supporting coaches and players."
+          ],
+          "acceptable": "Provides some relevant experience but limited detail about responsibilities or application.",
+          "weak_or_concerning": "Relies only on being a soccer fan or player, exaggerates experience, or gives no connection to the role."
+        },
+        {
+          "question": "Why do you want to work as an assistant coach in an amateur club or academy?",
+          "evaluates": "Motivation, commitment and understanding of the amateur environment.",
+          "strong_answer_criteria": [
+            "Shows genuine interest in helping players and coaches.",
+            "Recognizes the practical and service-oriented nature of the role.",
+            "Demonstrates realistic availability and willingness to learn."
+          ],
+          "acceptable": "Shows positive motivation but gives generic reasons or limited evidence of commitment.",
+          "weak_or_concerning": "Focuses only on status, rapid promotion or personal authority and shows little interest in practical support."
+        },
+        {
+          "question": "What do you believe are the main responsibilities of an assistant coach at this level?",
+          "evaluates": "Role clarity and realistic expectations.",
+          "strong_answer_criteria": [
+            "Mentions session setup, player supervision, exercise support, positive communication and match-day organization.",
+            "Understands that the lead coach sets the main direction.",
+            "Recognizes safety, reliability and possible support across several teams."
+          ],
+          "acceptable": "Identifies helping the coach and players but omits some practical or safety responsibilities.",
+          "weak_or_concerning": "Describes a professional first-team tactical assistant, expects independent authority, or sees practical tasks as beneath the role."
+        }
+      ]
+    },
+    {
+      "section_name": "B. Training-Session Support",
+      "questions": [
+        {
+          "question": "How would you help prepare the field, equipment, and players before a training session?",
+          "evaluates": "Organization, initiative and readiness.",
+          "strong_answer_criteria": [
+            "Arrives early and checks the session plan with the coach.",
+            "Sets up safe equipment and playing areas accurately.",
+            "Helps with attendance, player readiness and an orderly start."
+          ],
+          "acceptable": "Mentions equipment setup and helping players but provides limited sequence or safety detail.",
+          "weak_or_concerning": "Waits passively for every instruction, ignores safety checks, or cannot describe basic preparation."
+        },
+        {
+          "question": "How would you support the coach while a training exercise is taking place?",
+          "evaluates": "Observation, cooperation and useful intervention.",
+          "strong_answer_criteria": [
+            "Understands the exercise objective and assigned role.",
+            "Observes engagement and safety, manages balls or transitions, and reinforces agreed coaching points.",
+            "Communicates observations at an appropriate time without interrupting or contradicting the coach."
+          ],
+          "acceptable": "Provides active support and encouragement but gives limited detail about timing or alignment.",
+          "weak_or_concerning": "Takes over without permission, gives conflicting instructions, remains disengaged, or humiliates players."
+        },
+        {
+          "question": "If the coach asks you to supervise a small group or basic exercise, how would you organize it?",
+          "evaluates": "Basic delivery, clarity and group management.",
+          "strong_answer_criteria": [
+            "Confirms the objective, rules, duration and safety requirements.",
+            "Explains and demonstrates simply, checks understanding and keeps players active.",
+            "Observes, encourages and gives corrections consistent with the coach’s direction."
+          ],
+          "acceptable": "Can organize and explain a basic activity but provides limited detail about checking understanding or adapting it.",
+          "weak_or_concerning": "Changes the purpose without agreement, cannot control the group, or prioritizes complexity over safe, clear delivery."
+        }
+      ]
+    },
+    {
+      "section_name": "C. Player Development and Communication",
+      "questions": [
+        {
+          "question": "How would you explain an exercise to players who do not understand the coach’s instructions?",
+          "evaluates": "Clear, age-appropriate communication.",
+          "strong_answer_criteria": [
+            "Uses simple language, a brief demonstration and one or two key points.",
+            "Checks understanding through questions or practice.",
+            "Adapts explanation without criticizing the player or undermining the coach."
+          ],
+          "acceptable": "Repeats or demonstrates the instruction positively but has a limited method for checking understanding.",
+          "weak_or_concerning": "Blames the player, raises pressure unnecessarily, gives conflicting information or continues without checking comprehension."
+        },
+        {
+          "question": "How would you encourage a player who is struggling or losing confidence?",
+          "evaluates": "Empathy, motivation and appropriate support.",
+          "strong_answer_criteria": [
+            "Listens and identifies the immediate difficulty.",
+            "Uses specific, realistic encouragement and focuses on controllable actions or small progress.",
+            "Keeps the player included and informs the coach when further support is needed."
+          ],
+          "acceptable": "Offers positive encouragement and patience but gives generic feedback.",
+          "weak_or_concerning": "Shames, compares or threatens the player, promises outcomes, or dismisses distress and possible safeguarding concerns."
+        },
+        {
+          "question": "How would you correct a player while remaining positive and respecting the lead coach’s instructions?",
+          "evaluates": "Constructive feedback and staff alignment.",
+          "strong_answer_criteria": [
+            "Reinforces the coach’s terminology and objective.",
+            "Gives one clear, actionable correction and recognizes what the player did well.",
+            "Chooses appropriate timing and checks whether the correction helped."
+          ],
+          "acceptable": "Provides respectful correction aligned with the exercise but gives limited detail about timing or follow-up.",
+          "weak_or_concerning": "Publicly criticizes the player, overwhelms them with corrections, or contradicts the coach."
+        }
+      ]
+    },
+    {
+      "section_name": "D. Match-Day Responsibilities",
+      "questions": [
+        {
+          "question": "How would you help the team before, during, and after a weekend game?",
+          "evaluates": "Match-day organization and dependable support.",
+          "strong_answer_criteria": [
+            "Describes timely arrival, equipment and player readiness before kickoff.",
+            "Supports warm-up, bench organization, substitutions, observation and calm communication as assigned.",
+            "Helps with equipment, player welfare and a professional departure after the game."
+          ],
+          "acceptable": "Identifies several relevant match-day tasks but lacks a complete or organized process.",
+          "weak_or_concerning": "Focuses mainly on tactical authority, ignores practical responsibilities, or behaves emotionally toward officials, opponents or players."
+        },
+        {
+          "question": "What would you do if a player became frustrated about playing time or their position?",
+          "evaluates": "Emotional judgment, listening and respect for decision authority.",
+          "strong_answer_criteria": [
+            "Listens privately and calmly without promising selection or agreeing against the coach.",
+            "Acknowledges feelings, reinforces appropriate behavior and directs role decisions to the lead coach.",
+            "Escalates concerning conduct or welfare issues appropriately."
+          ],
+          "acceptable": "Responds calmly and refers the matter to the coach but provides limited detail about boundaries or follow-up.",
+          "weak_or_concerning": "Promises playing time, criticizes the coach, argues publicly, dismisses the player or uses punishment outside assigned authority."
+        },
+        {
+          "question": "How would you respond if the coach were temporarily occupied and the players needed supervision?",
+          "evaluates": "Initiative, supervision and boundary awareness.",
+          "strong_answer_criteria": [
+            "Keeps players together, safe and engaged in an approved low-risk activity.",
+            "Uses known routines and avoids introducing unauthorized tactical or physical work.",
+            "Contacts the coach or responsible club official and follows emergency procedures if necessary."
+          ],
+          "acceptable": "Maintains order and safety while waiting for direction but provides limited procedural detail.",
+          "weak_or_concerning": "Leaves players unsupervised, invents risky activities, exceeds authority or fails to seek responsible support."
+        }
+      ]
+    },
+    {
+      "section_name": "E. Reliability, Safety and Collaboration",
+      "questions": [
+        {
+          "question": "How would you communicate with the coach if you disagreed with an instruction or decision?",
+          "evaluates": "Professional disagreement and respect for roles.",
+          "strong_answer_criteria": [
+            "Chooses a private and appropriate time.",
+            "Asks clarifying questions, explains the concern respectfully and focuses on player or team needs.",
+            "Accepts the final decision unless it presents a safety, safeguarding or legal concern that requires escalation."
+          ],
+          "acceptable": "Discusses disagreement privately and respectfully but gives limited detail about escalation or resolution.",
+          "weak_or_concerning": "Challenges the coach publicly, undermines instructions with players, stays silent about genuine safety concerns or becomes confrontational."
+        },
+        {
+          "question": "What would you do if you observed an injury, bullying, unsafe conduct, or a safeguarding concern?",
+          "evaluates": "Immediate safety awareness and reporting judgment.",
+          "strong_answer_criteria": [
+            "Stops or reduces immediate danger within their role and obtains appropriate help.",
+            "Follows club emergency, injury and safeguarding procedures and reports to the designated responsible person.",
+            "Records facts accurately, preserves privacy and does not investigate or promise secrecy independently."
+          ],
+          "acceptable": "Recognizes the need to protect the player and inform the appropriate coach or club official but lacks procedural detail.",
+          "weak_or_concerning": "Ignores or minimizes the concern, diagnoses or treats beyond competence, promises secrecy, confronts alleged parties recklessly or posts/discusses it publicly."
+        },
+        {
+          "question": "Amateur clubs often need help with equipment, attendance, field setup, substitutions, transportation coordination, and communication. Which responsibilities can you support, and how would you remain reliable throughout the season?",
+          "evaluates": "Practical contribution, availability and dependability.",
+          "strong_answer_criteria": [
+            "Identifies realistic duties and distinguishes tasks requiring authorization.",
+            "Explains punctuality, scheduling, early communication about conflicts and follow-through.",
+            "Shows willingness to help one or several teams while maintaining accurate attendance and safe information handling."
+          ],
+          "acceptable": "Can support several practical tasks and commits to communication, but provides limited detail about reliability systems or boundaries.",
+          "weak_or_concerning": "Rejects normal support duties, overcommits without a plan, handles transport or personal data casually, or has no process for absences and schedule conflicts."
+        }
+      ]
+    }
+  ],
+  "score_bands": [
+    {
+      "range": "51-60",
+      "percentage": "85.0-100%",
+      "interpretation": "Strong evidence of readiness for the role"
+    },
+    {
+      "range": "41-50",
+      "percentage": "68.3-83.3%",
+      "interpretation": "Good evidence; some development areas"
+    },
+    {
+      "range": "30-40",
+      "percentage": "50.0-66.7%",
+      "interpretation": "Basic / acceptable; supervision or development may be needed"
+    },
+    {
+      "range": "18-29",
+      "percentage": "30.0-48.3%",
+      "interpretation": "Weak evidence; significant follow-up required"
+    },
+    {
+      "range": "0-17",
+      "percentage": "0-28.3%",
+      "interpretation": "Insufficient or concerning evidence"
+    }
+  ],
+  "consistency_classification": [
+    {
+      "label": "Consistent",
+      "meaning": "The video supports and meaningfully expands the written response."
+    },
+    {
+      "label": "Partially consistent",
+      "meaning": "The central idea matches, but important practical detail, process or evidence is missing."
+    },
+    {
+      "label": "Contradictory",
+      "meaning": "The video materially conflicts with a relevant written statement, creating uncertainty about the candidate’s actual experience, availability, approach or position."
+    },
+    {
+      "label": "Unsupported claim",
+      "meaning": "The candidate claims qualifications, authorization, experience or impact without relevant explanation or verifiable support."
+    },
+    {
+      "label": "Role mismatch",
+      "meaning": "The answer may be positive generally but describes Head Coach, professional Assistant Coach or unrelated responsibilities instead of this role."
+    },
+    {
+      "label": "Insufficient evidence",
+      "meaning": "The response is too vague, incomplete or inaudible to evaluate confidently."
+    }
+  ],
+  "critical_human_review_flags": [
+    "Ignoring, minimizing or concealing an injury, bullying allegation, unsafe conduct or safeguarding concern.",
+    "Promises of secrecy to a minor or an attempt to investigate a safeguarding allegation independently.",
+    "Humiliating, threatening, discriminatory or physically unsafe treatment of players.",
+    "Leaving players unsupervised or exceeding assigned authority in a way that creates risk.",
+    "Materially false or contradictory claims about qualifications, background checks, transport authorization, availability or experience.",
+    "Routine undermining of coaches, public confrontation or conflicting instructions to players.",
+    "Unsafe handling of player attendance, contact, medical, transport or other personal information."
+  ],
+  "required_output_fields": [
+    {
+      "field": "Score",
+      "description": "The score assigned to the candidate's response."
+    }
+  ],
+  "implementation_controls": []
+}

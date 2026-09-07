@@ -1,0 +1,342 @@
+{
+  "role": "Data Analyst",
+  "purpose": "Position-specific questionnaire and developer-ready AI scoring criteria",
+  "question_count": 15,
+  "evaluation_approach": "The AI must evaluate each response specifically for the Data Analyst position. It should prioritize data quality, reproducibility, appropriate methods, soccer-context interpretation, clear reporting, analytical integrity, collaboration and decision support. It must not apply Video Analyst, Data Engineer, coach, scout or general Office Staff criteria. Core principle: A strong candidate demonstrates more than software familiarity or statistical terminology. Strong responses connect a defined question to reliable data, an appropriate method, validation, contextual interpretation, clear limitations and a decision-relevant output.",
+  "scoring_scale": [
+    {
+      "score": 4,
+      "classification": "Strong",
+      "meaning": "Role-specific, clear and supported by a relevant example, process or evidence"
+    },
+    {
+      "score": 3,
+      "classification": "Good",
+      "meaning": "Relevant and reasonably developed, but missing some depth, evidence or follow-through"
+    },
+    {
+      "score": 2,
+      "classification": "Acceptable",
+      "meaning": "Demonstrates basic understanding but remains generic or incomplete"
+    },
+    {
+      "score": 1,
+      "classification": "Weak",
+      "meaning": "Vague, minimally relevant, impractical or unsupported"
+    },
+    {
+      "score": 0,
+      "classification": "Incorrect / concerning",
+      "meaning": "Does not answer the question, contradicts the role, or reveals unsafe, unethical or unprofessional judgment"
+    }
+  ],
+  "mandatory_scoring_rules": [
+    "Score against Data Analyst expectations, not Video Analyst, Data Engineer, coach, scout or general Office Staff criteria.",
+    "For questions requesting a real situation or example, do not award 4/4 unless the response includes the situation, the candidate’s action and the outcome.",
+    "For process questions, a 4/4 response should explain what the candidate would do, how, why and how accuracy or usefulness would be checked.",
+    "Distinguish software familiarity and terminology from demonstrated analytical competence.",
+    "Treat relevant but generic answers as Acceptable or Good, not automatically Strong.",
+    "Do not infer data access, coding ability, credentials, model performance, ownership or impact not stated by the candidate.",
+    "Do not reward complexity when a simpler valid method answers the question more reliably.",
+    "Require limitations, uncertainty and sample context when they materially affect interpretation.",
+    "Flag material contradictions between questionnaire and video, but do not treat contradiction alone as proof of dishonesty.",
+    "Do not score accent, grammar, speaking speed, appearance, age, gender, ethnicity, disability or video production quality. Evaluate relevant content only.",
+    "Route material privacy, manipulation, discrimination, security or credential concerns to qualified human review."
+  ],
+  "sections": [
+    {
+      "section_name": "A. Background, Role Understanding and Analytical Mindset",
+      "questions": [
+        {
+          "question": "Tell us about your data-analysis experience and the soccer, sports or business questions you have worked on.",
+          "evaluates": "Relevant analytical experience and transferable preparation.",
+          "strong_answer_criteria": [
+            "Identifies datasets, tools, stakeholders, questions and personal responsibilities.",
+            "Explains the scale and quality limitations of the data.",
+            "Connects analysis to a decision, action or measurable outcome."
+          ],
+          "acceptable": "Provides relevant experience but limited ownership, method, evidence or outcome detail.",
+          "weak_or_concerning": "Lists tools or courses without demonstrating analysis, exaggerates ownership or cannot explain how the work was used."
+        },
+        {
+          "question": "What is the role of a Data Analyst within a soccer organization?",
+          "evaluates": "Role clarity and organizational understanding.",
+          "strong_answer_criteria": [
+            "Explains data collection, validation, analysis, interpretation, reporting and decision support.",
+            "Connects work to performance, recruitment, operations or commercial objectives as assigned.",
+            "Distinguishes quantitative analysis from video coding, coaching decisions and data engineering."
+          ],
+          "acceptable": "Identifies reports and statistics but omits quality control, interpretation or stakeholder decision support.",
+          "weak_or_concerning": "Defines the role only as producing numbers, watching matches or telling coaches what decisions to make."
+        },
+        {
+          "question": "Describe an analytical project you completed. What was the question, method, result, limitation and impact?",
+          "evaluates": "End-to-end ownership, evidence and reflection.",
+          "strong_answer_criteria": [
+            "States a clear question, data source, method and success criterion.",
+            "Explains personal decisions and validates the result.",
+            "Reports the finding, limitation, stakeholder use and lesson honestly."
+          ],
+          "acceptable": "Describes a relevant project but omits some method, validation, limitation, impact or ownership detail.",
+          "weak_or_concerning": "Presents correlation as causation, cannot explain the method or claims impact without evidence."
+        }
+      ]
+    },
+    {
+      "section_name": "B. Data Acquisition, Quality and Governance",
+      "questions": [
+        {
+          "question": "How do you collect, clean and validate data before beginning an analysis?",
+          "evaluates": "Data-quality methodology and reproducibility.",
+          "strong_answer_criteria": [
+            "Defines source, fields, units, identifiers, time period and expected ranges.",
+            "Checks completeness, duplicates, missingness, outliers, consistency and source changes.",
+            "Documents transformations and preserves raw data or an auditable version."
+          ],
+          "acceptable": "Uses reasonable cleaning and validation steps but provides limited documentation or reproducibility detail.",
+          "weak_or_concerning": "Starts analysis without checking quality, silently deletes inconvenient values or overwrites the only source file."
+        },
+        {
+          "question": "What would you do if data from two providers or internal systems did not match?",
+          "evaluates": "Reconciliation and source judgment.",
+          "strong_answer_criteria": [
+            "Compares definitions, collection methods, timestamps, units, scope and update rules.",
+            "Quantifies the discrepancy and identifies the authoritative owner or use case.",
+            "Documents the decision and communicates uncertainty rather than forcing agreement."
+          ],
+          "acceptable": "Would investigate and consult source owners but provides limited comparison or documentation detail.",
+          "weak_or_concerning": "Chooses the preferred number without investigation, averages incompatible data or hides the discrepancy."
+        },
+        {
+          "question": "How would you design a reliable workflow for recurring match, player or organizational reporting?",
+          "evaluates": "Automation, controls and operational reliability.",
+          "strong_answer_criteria": [
+            "Defines inputs, owners, schedule, validation, transformations, outputs and failure alerts.",
+            "Uses version control, data dictionaries, access controls and reproducible logic.",
+            "Plans review, handover, exception handling and monitoring for source changes."
+          ],
+          "acceptable": "Describes an organized repeatable workflow but limited controls, documentation or failure handling.",
+          "weak_or_concerning": "Relies on undocumented manual steps, one individual or copied spreadsheets with no validation."
+        }
+      ]
+    },
+    {
+      "section_name": "C. Analytical Methods and Soccer Interpretation",
+      "questions": [
+        {
+          "question": "How do you choose metrics for evaluating a player, team or organizational objective?",
+          "evaluates": "Metric selection and contextual judgment.",
+          "strong_answer_criteria": [
+            "Starts with the decision or question rather than available metrics.",
+            "Defines population, role, position, competition, minutes, time period and relevant context.",
+            "Uses multiple complementary indicators and explains limitations."
+          ],
+          "acceptable": "Selects relevant metrics and some context but provides limited definition, comparison logic or limitation.",
+          "weak_or_concerning": "Uses one headline metric, ignores role and sample size or selects metrics only because they are available."
+        },
+        {
+          "question": "A team’s results have declined. How would you use data to investigate possible causes?",
+          "evaluates": "Problem framing, hypothesis testing and soccer reasoning.",
+          "strong_answer_criteria": [
+            "Breaks the issue into performance, opponent, availability, game-state and process hypotheses.",
+            "Checks sample size, schedule strength, expected versus actual outcomes and metric stability.",
+            "Uses data to narrow questions and collaborates with video and technical staff for context."
+          ],
+          "acceptable": "Reviews several relevant trends but provides limited hypothesis structure, context or validation.",
+          "weak_or_concerning": "Assumes one cause from a simple trend, ignores context or presents data as a substitute for football analysis."
+        },
+        {
+          "question": "How would you compare players or teams fairly across different positions, leagues, age groups or playing time?",
+          "evaluates": "Benchmarking, normalization and bias awareness.",
+          "strong_answer_criteria": [
+            "Defines comparable groups and minimum sample requirements.",
+            "Adjusts or contextualizes for role, minutes, possession, competition level, age and team style as relevant.",
+            "Uses percentiles, rates, uncertainty or models appropriately and explains residual limitations."
+          ],
+          "acceptable": "Uses rates and relevant comparison groups but provides limited context or uncertainty treatment.",
+          "weak_or_concerning": "Compares raw totals directly, mixes incompatible populations or produces a universal ranking without limitations."
+        }
+      ]
+    },
+    {
+      "section_name": "D. Reporting, Communication and Decision Support",
+      "questions": [
+        {
+          "question": "How would you explain a complex analytical finding to coaches, executives, scouts or non-technical staff?",
+          "evaluates": "Communication, audience adaptation and decision support.",
+          "strong_answer_criteria": [
+            "Begins with the question, conclusion, confidence and practical implication.",
+            "Uses clear visuals and plain language while preserving important limitations.",
+            "Adapts detail to the audience and checks understanding."
+          ],
+          "acceptable": "Communicates clearly and uses visuals but provides limited decision context, uncertainty or audience adaptation.",
+          "weak_or_concerning": "Uses jargon, overwhelms the audience, hides uncertainty or presents the model as unquestionable."
+        },
+        {
+          "question": "Walk us through your process for building a dashboard or recurring analytical report.",
+          "evaluates": "Reporting design, usability and quality control.",
+          "strong_answer_criteria": [
+            "Defines audience, decisions, metric definitions, refresh frequency and ownership.",
+            "Prioritizes essential information, filters, comparisons and exception signals.",
+            "Tests accuracy and usability, documents definitions and reviews whether the report drives action."
+          ],
+          "acceptable": "Builds a logical report with relevant metrics but limited user testing, governance or follow-up.",
+          "weak_or_concerning": "Starts with visual design, includes every available metric or publishes without validating calculations."
+        },
+        {
+          "question": "What would you do if your analysis conflicted with a coach’s, scout’s or manager’s observation?",
+          "evaluates": "Professional challenge, triangulation and humility.",
+          "strong_answer_criteria": [
+            "Clarifies definitions and the decision being discussed.",
+            "Rechecks data, method, sample and assumptions and asks for the observation’s context.",
+            "Uses video or additional evidence where appropriate and presents uncertainty respectfully."
+          ],
+          "acceptable": "Would review both perspectives and discuss respectfully but provides limited verification or resolution process.",
+          "weak_or_concerning": "Dismisses domain expertise, changes the result to satisfy authority or defends the model without review."
+        }
+      ]
+    },
+    {
+      "section_name": "E. Collaboration, Ethics and Professional Development",
+      "questions": [
+        {
+          "question": "How do you collaborate with video analysts, coaches, scouts, medical, recruitment and business staff?",
+          "evaluates": "Cross-functional contribution and role boundaries.",
+          "strong_answer_criteria": [
+            "Clarifies the question, definitions, owner, deadline, evidence and decision rights.",
+            "Combines quantitative findings with relevant video, domain or operational context.",
+            "Provides reproducible outputs and closes the feedback loop."
+          ],
+          "acceptable": "Communicates and shares analysis with stakeholders but provides limited role clarity or follow-through.",
+          "weak_or_concerning": "Works in isolation, treats other expertise as inferior or allows stakeholders to redefine results without evidence."
+        },
+        {
+          "question": "What would you do if asked to remove an unfavorable result, manipulate a metric or use data beyond its approved purpose?",
+          "evaluates": "Analytical integrity, privacy and escalation.",
+          "strong_answer_criteria": [
+            "Identifies accuracy, consent, privacy, fairness and reputational risks.",
+            "Clarifies the request, refuses manipulation and offers a valid alternative analysis.",
+            "Documents the issue and follows appropriate governance or escalation procedures."
+          ],
+          "acceptable": "Recognizes the concern and would seek guidance but provides limited documentation or alternative action.",
+          "weak_or_concerning": "Changes the analysis to satisfy leadership, conceals findings or reuses personal data without authorization."
+        },
+        {
+          "question": "How do you maintain your analytical skills and ensure reliable delivery when tools, data sources or deadlines change?",
+          "evaluates": "Learning mindset, adaptability and operational reliability.",
+          "strong_answer_criteria": [
+            "Uses structured learning, documentation, peer review and validation rather than chasing tools.",
+            "Tests source or method changes before production and communicates impact early.",
+            "Plans version control, backups, handover and realistic deadlines."
+          ],
+          "acceptable": "Shows learning and adaptation with basic reliability practices but limited change-control detail.",
+          "weak_or_concerning": "Uses new tools without validation, depends on one undocumented workflow or misses deadlines without early communication."
+        }
+      ]
+    }
+  ],
+  "score_bands": [
+    {
+      "range": "51-60",
+      "percentage": "85.0-100%",
+      "interpretation": "Strong evidence of readiness for the role"
+    },
+    {
+      "range": "41-50",
+      "percentage": "68.3-83.3%",
+      "interpretation": "Good evidence; some development areas"
+    },
+    {
+      "range": "30-40",
+      "percentage": "50.0-66.7%",
+      "interpretation": "Basic / acceptable; supervision or development may be needed"
+    },
+    {
+      "range": "18-29",
+      "percentage": "30.0-48.3%",
+      "interpretation": "Weak evidence; significant follow-up required"
+    },
+    {
+      "range": "0-17",
+      "percentage": "0-28.3%",
+      "interpretation": "Insufficient or concerning evidence"
+    }
+  ],
+  "consistency_classification": [
+    {
+      "label": "Consistent",
+      "meaning": "The video supports and meaningfully expands the written response."
+    },
+    {
+      "label": "Partially consistent",
+      "meaning": "The central idea matches, but important practical detail, method or evidence is missing."
+    },
+    {
+      "label": "Contradictory",
+      "meaning": "The video materially conflicts with a relevant written statement, creating uncertainty about the candidate’s experience, method, ownership or results."
+    },
+    {
+      "label": "Unsupported claim",
+      "meaning": "The candidate claims qualifications, coding ability, data access, model performance, project ownership or impact without relevant explanation or verifiable support."
+    },
+    {
+      "label": "Role mismatch",
+      "meaning": "The answer may be positive generally but describes Video Analyst, Data Engineer, coach, scout or unrelated responsibilities instead of this role."
+    },
+    {
+      "label": "Insufficient evidence",
+      "meaning": "The response is too vague, incomplete or inaudible to evaluate confidently."
+    }
+  ],
+  "critical_human_review_flags": [
+    "Fabricating, altering, cherry-picking or concealing data or analytical results.",
+    "Presenting correlation as causation or certainty without appropriate evidence.",
+    "Using personal, medical, youth, recruitment or commercial data beyond authorized purpose.",
+    "Sharing confidential datasets, credentials, reports or identifiable information without authorization.",
+    "Creating discriminatory rankings, proxies or recommendations without appropriate fairness review.",
+    "Materially false or contradictory claims about qualifications, coding, data access, ownership or model performance.",
+    "Deploying unvalidated logic or silent data transformations that materially affect decisions.",
+    "Refusal to disclose significant limitations, errors, conflicts or data-quality failures."
+  ],
+  "required_output_fields": [
+    {
+      "field": "question_id",
+      "description": "1–15"
+    },
+    {
+      "field": "score",
+      "description": "Integer from 0 to 4"
+    },
+    {
+      "field": "confidence",
+      "description": "High / Medium / Low"
+    },
+    {
+      "field": "evidence",
+      "description": "Relevant statement or demonstrated process from the response"
+    },
+    {
+      "field": "missing_evidence",
+      "description": "Information required for a stronger or more reliable assessment"
+    },
+    {
+      "field": "consistency_classification",
+      "description": "Consistent / Partially consistent / Contradictory / Unsupported claim / Role mismatch / Insufficient evidence"
+    },
+    {
+      "field": "red_flags",
+      "description": "None or specific human-review flag"
+    },
+    {
+      "field": "rationale",
+      "description": "Short role-specific explanation"
+    }
+  ],
+  "implementation_controls": [
+    "Store this rubric under the distinct role ID Data Analyst.",
+    "For each response return: score (0–4), confidence level, evidence from the answer, missing evidence, consistency classification, red flags and a short rationale.",
+    "Keep score separate from confidence.",
+    "A low-confidence response should be reviewed rather than automatically treated as weak.",
+    "Material privacy, manipulation, discrimination, security and credential flags must always be routed to qualified human review."
+  ]
+}

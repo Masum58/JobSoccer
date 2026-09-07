@@ -1,0 +1,364 @@
+{
+  "role": "Video Analyst",
+  "purpose": "Developer-ready position-specific scoring rubric",
+  "question_count": 18,
+  "evaluation_approach": "The AI must evaluate each response specifically for the Video Analyst position. It must assess tactical understanding, analytical process, evidence quality, communication, workflow and professional judgment. There is no single required answer, software platform or tactical opinion. Core principle: A strong response explains not only what the analyst does, but how evidence is selected, interpreted, communicated and converted into useful action for coaches and players.",
+  "scoring_scale": [
+    {
+      "score": 4,
+      "classification": "Strong",
+      "meaning": "Role-specific, clear and supported by a relevant process, example or evidence"
+    },
+    {
+      "score": 3,
+      "classification": "Good",
+      "meaning": "Relevant and developed, but missing some depth, verification or outcome"
+    },
+    {
+      "score": 2,
+      "classification": "Acceptable",
+      "meaning": "Basic understanding, but generic, incomplete or weakly evidenced"
+    },
+    {
+      "score": 1,
+      "classification": "Weak",
+      "meaning": "Vague, minimally relevant, impractical or unsupported"
+    },
+    {
+      "score": 0,
+      "classification": "Incorrect / concerning",
+      "meaning": "Does not answer the question or reveals serious technical, ethical or professional concerns"
+    }
+  ],
+  "mandatory_scoring_rules": [
+    "Score against the Video Analyst position, not Head Coach, Performance Analyst or general Office Staff expectations.",
+    "Do not require one specific software brand; evaluate whether the candidate can explain a credible workflow and tool purpose.",
+    "For questions requesting a real situation, do not award 4/4 without the situation, action and outcome.",
+    "Do not confuse confident tactical opinions with evidence-based analysis.",
+    "Reward relevant synthesis and actionability, not the number of clips, data points or technical terms.",
+    "Flag contradictions between the written questionnaire and video response, but do not treat a contradiction alone as proof of dishonesty.",
+    "Do not infer software proficiency, tactical expertise or impact that the candidate did not demonstrate.",
+    "Do not score accent, grammar, appearance, age, gender, ethnicity, disability or production quality. Evaluate the response content."
+  ],
+  "sections": [
+    {
+      "section_name": "A. Background & Role Definition",
+      "questions": [
+        {
+          "question": "Can you describe your background and pathway to becoming a video analyst in football?",
+          "evaluates": "Relevant preparation, experience and understanding of the analyst pathway.",
+          "strong_answer_criteria": [
+            "Identifies relevant education, training, internships, coaching or analysis experience.",
+            "Explains progression from early exposure to current responsibilities.",
+            "Connects previous experience to specific analyst competencies.",
+            "Shows continuing learning rather than relying only on enthusiasm."
+          ],
+          "acceptable": "Describes relevant experience but provides limited detail about responsibilities or development.",
+          "weak_or_concerning": "Mentions only passion for football, watching matches or software interest without evidence of analysis practice."
+        },
+        {
+          "question": "How do you define your role and responsibilities within a technical staff?",
+          "evaluates": "Role clarity, boundaries and contribution to the multidisciplinary staff.",
+          "strong_answer_criteria": [
+            "Defines pre-match, live and post-match responsibilities.",
+            "Explains support for coaches and players without claiming final coaching authority.",
+            "Covers capture, coding, interpretation, presentation and secure information handling.",
+            "Recognizes deadlines, collaboration and the difference between evidence and recommendation."
+          ],
+          "acceptable": "Identifies video preparation and tactical support but gives an incomplete workflow.",
+          "weak_or_concerning": "Describes the role as merely filming matches or making highlights, or attempts to replace the coaching staff."
+        },
+        {
+          "question": "How do you ensure your analysis supports the head coach’s tactical objectives?",
+          "evaluates": "Alignment with the head coach, playing model and weekly priorities.",
+          "strong_answer_criteria": [
+            "Clarifies the coach’s questions, game model and match plan before analysis.",
+            "Uses agreed terminology, indicators and reporting formats.",
+            "Prioritizes evidence relevant to current tactical objectives.",
+            "Checks usefulness through feedback and adjusts future outputs."
+          ],
+          "acceptable": "States that analysis follows the coach’s objectives but gives little detail about alignment.",
+          "weak_or_concerning": "Produces analysis independently without confirming priorities or treats personal tactical opinions as the final objective."
+        }
+      ]
+    },
+    {
+      "section_name": "B. Technical & Tactical Expertise",
+      "questions": [
+        {
+          "question": "How do you identify tactical patterns and trends from match footage?",
+          "evaluates": "Systematic tactical observation and evidence-based pattern recognition.",
+          "strong_answer_criteria": [
+            "Defines the tactical question and observable behaviors before coding.",
+            "Reviews repeated events across phases, zones, players and game states.",
+            "Uses tagging, timelines, context and frequency while avoiding conclusions from isolated clips.",
+            "Validates patterns with additional footage, data or staff review."
+          ],
+          "acceptable": "Describes repeated viewing and clip collection but lacks a structured coding or validation method.",
+          "weak_or_concerning": "Calls a single incident a pattern, relies on intuition alone or ignores match context."
+        },
+        {
+          "question": "How do you evaluate player decision-making using video analysis?",
+          "evaluates": "Ability to assess decisions in context rather than judging outcomes alone.",
+          "strong_answer_criteria": [
+            "Considers available information, positioning, pressure, teammates, opponents and tactical principles.",
+            "Distinguishes decision quality from technical execution and final outcome.",
+            "Uses sequences before and after the action, not only the final moment.",
+            "Provides age- and role-appropriate feedback with alternative options."
+          ],
+          "acceptable": "Reviews choices and outcomes but considers only some contextual factors.",
+          "weak_or_concerning": "Labels decisions right or wrong solely from the result or criticizes players without showing realistic alternatives."
+        },
+        {
+          "question": "How do you assess opposition strengths and weaknesses through analysis?",
+          "evaluates": "Opposition analysis, prioritization and relevance to match planning.",
+          "strong_answer_criteria": [
+            "Examines build-up, progression, chance creation, defending, transitions and set plays.",
+            "Compares repeated behaviors across recent matches and different game states.",
+            "Identifies exploitable tendencies and threats with supporting clips or data.",
+            "Links findings to the team’s capabilities and the coach’s intended plan."
+          ],
+          "acceptable": "Identifies common strengths and weaknesses with some supporting footage.",
+          "weak_or_concerning": "Produces generic descriptions, overstates conclusions from one match or ignores how findings affect the team’s plan."
+        }
+      ]
+    },
+    {
+      "section_name": "C. Analysis Methodology & Workflow",
+      "questions": [
+        {
+          "question": "How do you structure your video analysis workflow throughout a week?",
+          "evaluates": "Planning, prioritization and reliable delivery within the match cycle.",
+          "strong_answer_criteria": [
+            "Explains a coherent post-match, training, opposition, pre-match and matchday workflow.",
+            "Sets deadlines and prioritizes coach requests and high-impact outputs.",
+            "Includes footage management, coding, quality control, presentation and archiving.",
+            "Adapts the workflow to schedule congestion and available resources."
+          ],
+          "acceptable": "Describes the main weekly analysis activities but lacks timing, priorities or quality checks.",
+          "weak_or_concerning": "Works reactively without deadlines, produces late outputs or cannot distinguish essential from optional work."
+        },
+        {
+          "question": "How do you select and prioritize key clips or data points for analysis?",
+          "evaluates": "Judgment, relevance and information discipline.",
+          "strong_answer_criteria": [
+            "Starts with the tactical question and intended audience.",
+            "Selects representative evidence, including successful and unsuccessful examples.",
+            "Considers frequency, tactical importance, game context and actionability.",
+            "Limits volume and sequences clips logically to avoid cognitive overload."
+          ],
+          "acceptable": "Selects clips related to tactical objectives but gives limited prioritization logic.",
+          "weak_or_concerning": "Chooses only dramatic incidents, confirms a preferred conclusion or overwhelms the audience with excessive clips and data."
+        },
+        {
+          "question": "What tools or software do you use to support your analysis process?",
+          "evaluates": "Practical technical competence and tool selection.",
+          "strong_answer_criteria": [
+            "Names tools actually used and explains their purpose in capture, coding, telestration, data, presentation or sharing.",
+            "Describes an end-to-end workflow rather than listing brands.",
+            "Shows file organization, export, backup, access control and troubleshooting awareness.",
+            "Can adapt when a preferred tool is unavailable."
+          ],
+          "acceptable": "Names relevant software and provides a basic description of use.",
+          "weak_or_concerning": "Lists tools without explaining practical use, exaggerates proficiency or depends on one platform without a fallback process."
+        }
+      ]
+    },
+    {
+      "section_name": "D. Tactical Model & Communication",
+      "questions": [
+        {
+          "question": "How do you analyze a team’s playing model and game principles?",
+          "evaluates": "Understanding of the game model and ability to convert principles into observable indicators.",
+          "strong_answer_criteria": [
+            "Clarifies principles for possession, defending, transitions and set plays.",
+            "Defines observable behaviors by phase, zone, unit, role and game state.",
+            "Compares intended principles with actual execution over multiple matches.",
+            "Separates structural, tactical, technical and contextual causes."
+          ],
+          "acceptable": "Identifies playing principles and reviews whether they appear in matches.",
+          "weak_or_concerning": "Confuses formation with playing model or evaluates the team only through possession percentage and results."
+        },
+        {
+          "question": "How do you translate tactical analysis into actionable insights for coaches and players?",
+          "evaluates": "Communication, synthesis and practical application.",
+          "strong_answer_criteria": [
+            "Converts findings into concise observations, implications and recommended actions.",
+            "Adapts language, detail and format to coaches, units and individual players.",
+            "Uses clear clips, telestration and questions without unnecessary jargon.",
+            "Connects the insight to training, match planning or a measurable behavior."
+          ],
+          "acceptable": "Presents key clips and explains possible improvements but gives limited detail about audience adaptation or action.",
+          "weak_or_concerning": "Reports observations without implications, uses excessive jargon or provides criticism that cannot be acted upon."
+        },
+        {
+          "question": "Describe a situation where you had to communicate a complex or sensitive analysis message.",
+          "evaluates": "Judgment, emotional intelligence and credibility under pressure.",
+          "strong_answer_criteria": [
+            "Provides a specific situation, audience and sensitive issue.",
+            "Uses objective evidence and appropriate timing, tone and confidentiality.",
+            "Distinguishes facts, interpretation and uncertainty.",
+            "Explains the response, outcome and lesson learned."
+          ],
+          "acceptable": "Describes a reasonable communication approach but provides an incomplete situation or outcome.",
+          "weak_or_concerning": "Avoids the message, presents it publicly, blames an individual or communicates certainty unsupported by evidence."
+        }
+      ]
+    },
+    {
+      "section_name": "E. Collaboration & Adaptability",
+      "questions": [
+        {
+          "question": "How do you collaborate with coaches and staff to align analysis with training and matches?",
+          "evaluates": "Integration with the technical and multidisciplinary workflow.",
+          "strong_answer_criteria": [
+            "Uses regular planning conversations and clear request channels.",
+            "Agrees priorities, terminology, deadlines and output ownership.",
+            "Connects findings to training design, match preparation and review.",
+            "Invites feedback, handles disagreement professionally and protects confidential information."
+          ],
+          "acceptable": "Communicates regularly with staff and aligns analysis with match preparation.",
+          "weak_or_concerning": "Works in isolation, bypasses staff responsibilities or sends unprioritized material without discussion."
+        },
+        {
+          "question": "Describe a moment when your analysis influenced an important tactical decision.",
+          "evaluates": "Demonstrated impact, evidence quality and appropriate attribution.",
+          "strong_answer_criteria": [
+            "Provides the context, finding, evidence and recommendation.",
+            "Explains how and when the insight reached decision-makers.",
+            "Describes the tactical decision and observable result without claiming sole credit.",
+            "Reflects on limitations or what would be improved."
+          ],
+          "acceptable": "Provides a relevant example but lacks evidence, outcome or clarity about personal contribution.",
+          "weak_or_concerning": "Makes an unsupported claim of influence, takes sole credit for a staff decision or cannot explain the analytical basis."
+        },
+        {
+          "question": "Describe a match where your initial analysis approach was not sufficient. What adjustments did you make?",
+          "evaluates": "Adaptability, error recognition and live problem-solving.",
+          "strong_answer_criteria": [
+            "Identifies a specific match and why the initial framework failed.",
+            "Recognizes missing context, coding categories, camera limitations or an unexpected opponent behavior.",
+            "Explains the revised method and how it improved usefulness.",
+            "Shows honest reflection and a lasting methodological change."
+          ],
+          "acceptable": "Acknowledges a limitation and describes a reasonable adjustment but provides limited outcome evidence.",
+          "weak_or_concerning": "Claims the approach is never insufficient, blames equipment or others exclusively, or changes method without explaining why."
+        }
+      ]
+    },
+    {
+      "section_name": "F. Professionalism, Evaluation & Development",
+      "questions": [
+        {
+          "question": "What do you consider to be your main strengths as a video analyst, and which areas are you improving?",
+          "evaluates": "Self-awareness, credibility and development planning.",
+          "strong_answer_criteria": [
+            "Identifies role-relevant strengths supported by examples.",
+            "Names a genuine development area that is neither evasive nor disqualifying.",
+            "Describes specific learning actions, feedback or practice.",
+            "Connects development to improved contribution to staff and players."
+          ],
+          "acceptable": "Names relevant strengths and an improvement area but provides limited evidence or plan.",
+          "weak_or_concerning": "Uses clichés, claims no meaningful weakness or identifies strengths unrelated to the role."
+        },
+        {
+          "question": "What has been the toughest professional challenge you have faced in this role, and how did you overcome it?",
+          "evaluates": "Resilience, accountability and problem-solving.",
+          "strong_answer_criteria": [
+            "Explains a specific challenge, constraints and personal responsibility.",
+            "Describes a structured response, collaboration and decisions made.",
+            "Provides the outcome and what was learned.",
+            "Shows how the lesson changed future practice."
+          ],
+          "acceptable": "Describes a relevant challenge and reasonable response but lacks outcome or reflection.",
+          "weak_or_concerning": "Blames colleagues, breaches confidentiality, avoids responsibility or provides no evidence of resolution."
+        },
+        {
+          "question": "How do you measure the impact of your analysis beyond results, and how has your methodology evolved?",
+          "evaluates": "Evaluation discipline, learning and understanding of contribution versus causation.",
+          "strong_answer_criteria": [
+            "Uses indicators such as adoption of recommendations, behavior change, training transfer, decision speed, staff feedback and repeated tactical execution.",
+            "Recognizes that match results have many causes and avoids claiming direct causation.",
+            "Compares outputs and outcomes over time.",
+            "Explains concrete methodological changes based on evidence, feedback or new demands."
+          ],
+          "acceptable": "Mentions coach feedback and tactical improvement but gives limited measurement detail or evolution.",
+          "weak_or_concerning": "Measures impact only by wins, claims analysis caused results or cannot describe any methodological development."
+        }
+      ]
+    }
+  ],
+  "score_bands": [
+    {
+      "range": "61-72",
+      "percentage": "84.7-100%",
+      "interpretation": "Strong evidence of position readiness"
+    },
+    {
+      "range": "49-60",
+      "percentage": "68.1-83.3%",
+      "interpretation": "Good evidence; some development areas"
+    },
+    {
+      "range": "36-48",
+      "percentage": "50.0-66.7%",
+      "interpretation": "Basic / acceptable; evidence or depth is limited"
+    },
+    {
+      "range": "22-35",
+      "percentage": "30.6-48.6%",
+      "interpretation": "Weak evidence; significant follow-up required"
+    },
+    {
+      "range": "0-21",
+      "percentage": "0-29.2%",
+      "interpretation": "Insufficient or concerning evidence"
+    }
+  ],
+  "consistency_classification": [
+    {
+      "label": "Consistent",
+      "meaning": "The video supports and meaningfully expands the written response."
+    },
+    {
+      "label": "Partially consistent",
+      "meaning": "The central idea matches, but important details, evidence or process are missing."
+    },
+    {
+      "label": "Contradictory",
+      "meaning": "The video materially conflicts with the written response, creating uncertainty about the candidate’s actual experience, approach or position."
+    },
+    {
+      "label": "Unsupported claim",
+      "meaning": "The candidate claims expertise, software proficiency or impact without relevant explanation or evidence."
+    },
+    {
+      "label": "Role mismatch",
+      "meaning": "The answer may be generally positive but does not address Video Analyst responsibilities or the question asked."
+    },
+    {
+      "label": "Insufficient evidence",
+      "meaning": "The response is too vague, incomplete or inaudible to evaluate confidently."
+    }
+  ],
+  "critical_human_review_flags": [
+    "Potential confidentiality or data-protection breach.",
+    "Publicly blaming or humiliating players through analysis.",
+    "Fabricated or materially exaggerated software proficiency, qualifications or decision impact.",
+    "Systematic use of selective clips to confirm a preferred conclusion while ignoring contrary evidence.",
+    "Inability to distinguish factual observation, interpretation and recommendation.",
+    "A material written/video contradiction affecting experience, ethics or technical competence."
+  ],
+  "required_output_fields": [
+    {
+      "field": "Score",
+      "description": "Numerical score (0-4) based on evaluation criteria."
+    }
+  ],
+  "implementation_controls": [
+    "Store this rubric by role, section and question ID.",
+    "For every response, return: score (0-4), confidence level, evidence extracted from the answer, missing evidence, consistency classification, red flags and a short rationale.",
+    "Keep the numerical score separate from the confidence score.",
+    "The final output should support human review and should not be presented as an objective fact about the candidate."
+  ]
+}

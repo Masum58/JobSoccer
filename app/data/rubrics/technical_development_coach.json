@@ -1,0 +1,367 @@
+{
+  "role": "Technical Development Coach",
+  "purpose": "Developer-ready position-specific scoring rubric",
+  "question_count": 18,
+  "evaluation_approach": "The AI must evaluate each response specifically for the Technical Development Coach position in soccer. It must assess skill diagnosis, technical methodology, game transfer, individualization, communication, interdisciplinary collaboration, adaptability and professional judgment. There is no single required technical curriculum, drill library, demonstration style or coaching methodology. Core principle: A strong response explains how technical actions are diagnosed in context, developed through purposeful practice and transferred into perception, decision-making and collective game performance.",
+  "scoring_scale": [
+    {
+      "score": 4,
+      "classification": "Strong",
+      "meaning": "Role-specific, clear and supported by a relevant process, example or evidence"
+    },
+    {
+      "score": 3,
+      "classification": "Good",
+      "meaning": "Relevant and developed, but missing some depth, verification or outcome"
+    },
+    {
+      "score": 2,
+      "classification": "Acceptable",
+      "meaning": "Basic understanding, but generic, incomplete or weakly evidenced"
+    },
+    {
+      "score": 1,
+      "classification": "Weak",
+      "meaning": "Vague, minimally relevant, impractical or unsupported"
+    },
+    {
+      "score": 0,
+      "classification": "Incorrect / concerning",
+      "meaning": "Does not answer the question or reveals serious safety, ethical, technical or professional concerns"
+    }
+  ],
+  "mandatory_scoring_rules": [
+    "Score against Technical Development Coach expectations, not Technical Director, Head Coach, individual Skills Trainer or general Assistant Coach criteria.",
+    "Do not require one specific curriculum, drill, technical model or demonstration style; evaluate objective, progression, context and transfer.",
+    "For questions requesting a real situation, do not award 4/4 without the situation, action and outcome.",
+    "Do not confuse personal playing ability, complex drills or attractive demonstrations with effective player development.",
+    "Reward purposeful repetition and technical detail only when connected to perception, decisions and game application.",
+    "Do not infer qualifications, authority, impact, medical competence or specialist expertise that the candidate did not demonstrate.",
+    "Flag contradictions between the written questionnaire and video response, but do not treat a contradiction alone as proof of dishonesty.",
+    "Do not reward humiliating, discriminatory, unsafe, coercive or developmentally inappropriate coaching practices.",
+    "Do not score accent, grammar, appearance, age, gender, ethnicity, disability or production quality. Evaluate response content only."
+  ],
+  "sections": [
+    {
+      "section_name": "A. Background & Role Definition",
+      "questions": [
+        {
+          "question": "Can you describe your coaching background and pathway to becoming a Technical Development Coach?",
+          "evaluates": "Relevant preparation and progression into player technical development.",
+          "strong_answer_criteria": [
+            "Identifies relevant coaching, playing, education, mentoring or individual-development experience.",
+            "Explains actual responsibilities, age groups, levels and progression over time.",
+            "Connects prior work to skill diagnosis, training design, feedback and game transfer.",
+            "Shows continuing learning rather than relying only on playing ability or demonstration skill."
+          ],
+          "acceptable": "Describes relevant experience but gives limited detail about responsibilities, environments or progression.",
+          "weak_or_concerning": "Relies only on being a skilled player, lists licenses without application or exaggerates technical-development experience."
+        },
+        {
+          "question": "How do you define the role and responsibilities of a Technical Development Coach within a technical staff?",
+          "evaluates": "Role clarity, contribution and professional boundaries.",
+          "strong_answer_criteria": [
+            "Defines assessment, planning, delivery and review of individual and small-group technical development.",
+            "Connects core skills and position-specific actions to perception, decisions and the team model.",
+            "Recognizes that the Head Coach controls the overall plan, selection and collective tactical priorities.",
+            "Coordinates with other staff and avoids creating isolated or contradictory player messages."
+          ],
+          "acceptable": "Identifies skill development and player support but leaves workflow or authority boundaries unclear.",
+          "weak_or_concerning": "Describes only repetitive skills drills, attempts to replace the team coach or works independently from tactical and physical objectives."
+        },
+        {
+          "question": "How do you align your technical work with the Head Coach’s playing philosophy and objectives?",
+          "evaluates": "Alignment, terminology and transfer to team performance.",
+          "strong_answer_criteria": [
+            "Clarifies the playing model, player roles, weekly objectives and priority technical actions.",
+            "Translates team needs into individual or position-specific development targets.",
+            "Coordinates timing, terminology, workload and feedback with the Head Coach.",
+            "Uses match and training evidence to review whether specialist work transfers."
+          ],
+          "acceptable": "States that work follows the Head Coach’s plan but gives limited detail about translation or coordination.",
+          "weak_or_concerning": "Chooses fashionable techniques without a team need, duplicates workload or gives technical advice that conflicts with role expectations."
+        }
+      ]
+    },
+    {
+      "section_name": "B. Technical & Tactical Expertise",
+      "questions": [
+        {
+          "question": "How do you analyze player technical execution during match play?",
+          "evaluates": "Contextual observation and accurate skill diagnosis.",
+          "strong_answer_criteria": [
+            "Observes preparation, scanning, body orientation, contact, timing, direction, weight and follow-through where relevant.",
+            "Considers pressure, space, speed, role, surface, teammate options and tactical purpose.",
+            "Separates decision quality from execution quality and outcome.",
+            "Uses repeated actions and video or live evidence rather than one mistake or highlight."
+          ],
+          "acceptable": "Identifies execution strengths and errors with some context but gives limited repetition or diagnostic depth.",
+          "weak_or_concerning": "Judges technique only from successful outcomes, ignores the game problem or diagnoses from one isolated action."
+        },
+        {
+          "question": "How do you prioritize which technical skills to develop for different positions?",
+          "evaluates": "Role profiling, needs analysis and prioritization.",
+          "strong_answer_criteria": [
+            "Starts from the team model and observable demands of the player’s actual role.",
+            "Combines match evidence, training observation, player goals and development stage.",
+            "Selects a small number of high-impact priorities with clear progression criteria.",
+            "Balances common foundations with position-specific actions without rigid stereotypes."
+          ],
+          "acceptable": "Links skills to positions and player needs but gives limited evidence or prioritization logic.",
+          "weak_or_concerning": "Uses a fixed checklist, assumes every player in one position needs identical work or selects impressive skills with little game relevance."
+        },
+        {
+          "question": "How do you evaluate decision-making quality linked to technical execution?",
+          "evaluates": "Separation and integration of perception, decision and technique.",
+          "strong_answer_criteria": [
+            "Identifies information available before the action and realistic options.",
+            "Separates choice quality, execution quality and final outcome.",
+            "Considers pressure, risk, game state, zone, teammates, opponents and role principles.",
+            "Designs follow-up work that reconnects technical improvement to decisions under representative conditions."
+          ],
+          "acceptable": "Considers choices and execution but gives limited context or follow-up process.",
+          "weak_or_concerning": "Treats every technical error as poor decision-making, judges decisions only by outcome or trains execution without relevant choices."
+        }
+      ]
+    },
+    {
+      "section_name": "C. Technical Methodology & Skill Development",
+      "questions": [
+        {
+          "question": "How do you structure technical training sessions to develop core skills - first touch, passing, receiving and ball mastery?",
+          "evaluates": "Objective-led session design, progression and repetition quality.",
+          "strong_answer_criteria": [
+            "Defines a specific skill objective and observable success criteria based on player need.",
+            "Uses sufficient quality repetition while progressively adding direction, speed, pressure, perception and decisions.",
+            "Manages organization, work-rest balance, both sides where appropriate and player engagement.",
+            "Ends with representative application and reviews transfer rather than counting repetitions alone."
+          ],
+          "acceptable": "Describes a logical progression and relevant core skills but gives limited constraints, feedback or transfer detail.",
+          "weak_or_concerning": "Uses long unopposed routines without purpose, values complexity over learning or measures success only by completion."
+        },
+        {
+          "question": "What principles guide your technical coaching methodology?",
+          "evaluates": "Coherent learning approach and evidence-informed practice.",
+          "strong_answer_criteria": [
+            "Explains principles such as clarity, purposeful repetition, variability, representative context, feedback timing and player ownership.",
+            "Uses demonstrations and cues selectively without demanding one cosmetic technique in every context.",
+            "Progresses challenge based on response and protects confidence, safety and physical load.",
+            "Reviews whether learning transfers and adapts the method accordingly."
+          ],
+          "acceptable": "Names relevant coaching principles but gives limited application or evaluation detail.",
+          "weak_or_concerning": "Uses slogans, one universal method, constant instruction or technique correction based mainly on personal preference."
+        },
+        {
+          "question": "How do you adapt technical work to different age groups, positions and levels of play?",
+          "evaluates": "Developmental appropriateness and individualization.",
+          "strong_answer_criteria": [
+            "Adjusts language, task complexity, field size, pressure, information load and feedback to age and experience.",
+            "Builds robust foundations before adding position-specific speed and complexity.",
+            "Considers maturation, training age, physical constraints and competition demands.",
+            "Maintains the technical objective while changing method and expected execution standard."
+          ],
+          "acceptable": "Recognizes the need to adapt complexity and position detail but gives limited developmental rationale.",
+          "weak_or_concerning": "Treats youth as smaller adults, specializes too early or expects identical technique and speed from every player."
+        }
+      ]
+    },
+    {
+      "section_name": "D. Game Application & Communication",
+      "questions": [
+        {
+          "question": "How do you connect technical training exercises to game situations and decision-making?",
+          "evaluates": "Representative design and transfer of learning.",
+          "strong_answer_criteria": [
+            "Starts from a recurring game problem, role action or match observation.",
+            "Includes relevant direction, opponents, teammates, space, transition and scoring consequences.",
+            "Progresses from simplified detail to decisions under realistic pressure and timing.",
+            "Checks the behavior later in team training or matches and updates the plan."
+          ],
+          "acceptable": "Adds pressure and game-like activities but provides limited link to the original problem or transfer review.",
+          "weak_or_concerning": "Assumes any drill transfers automatically, adds random opposition or keeps technique permanently isolated from decisions."
+        },
+        {
+          "question": "How do you integrate individual technical development into collective team training?",
+          "evaluates": "Connection between player plans and team objectives.",
+          "strong_answer_criteria": [
+            "Aligns individual targets with session themes, roles and the Head Coach’s priorities.",
+            "Uses pre-activation, stations, role tasks, constraints or brief additional work without fragmenting the team.",
+            "Coordinates workload and messages with technical and performance staff.",
+            "Observes whether the player applies the target within collective situations."
+          ],
+          "acceptable": "Links individual work to team sessions but gives limited scheduling, workload or follow-up detail.",
+          "weak_or_concerning": "Removes players repeatedly without coordination, teaches actions inconsistent with the model or prioritizes individual work over team availability."
+        },
+        {
+          "question": "How do you communicate technical feedback to players to ensure understanding and progression?",
+          "evaluates": "Clarity, timing and learner-centered feedback.",
+          "strong_answer_criteria": [
+            "Uses concise, observable and actionable cues tied to the task objective.",
+            "Chooses appropriate timing and balances feedback with opportunities for self-correction.",
+            "Uses demonstration, questions, video or external focus according to player needs.",
+            "Checks understanding and tracks whether the correction improves performance."
+          ],
+          "acceptable": "Provides clear and positive corrections but gives limited adaptation or follow-up.",
+          "weak_or_concerning": "Overloads players, focuses on cosmetic detail, humiliates mistakes or assumes understanding without checking."
+        }
+      ]
+    },
+    {
+      "section_name": "E. Collaboration, Adaptability & Problem Solving",
+      "questions": [
+        {
+          "question": "How do you collaborate with tactical, physical and mental staff to ensure coherent player development?",
+          "evaluates": "Interdisciplinary coordination and scope awareness.",
+          "strong_answer_criteria": [
+            "Uses shared player objectives, terminology, schedules and review routines.",
+            "Explains how technical demands interact with tactical role, physical capacity, confidence and learning context.",
+            "Coordinates workload, restrictions and progression with responsible specialists.",
+            "Avoids medical or psychological diagnosis and protects confidential information."
+          ],
+          "acceptable": "Describes regular communication and coordinated plans but leaves ownership or boundaries unclear.",
+          "weak_or_concerning": "Works in isolation, gives contradictory advice, ignores restrictions or makes unsupported medical and psychological claims."
+        },
+        {
+          "question": "Describe a situation where a technical training approach did not produce the expected results. What adjustments did you make?",
+          "evaluates": "Diagnosis, adaptability and reflective practice.",
+          "strong_answer_criteria": [
+            "Provides a specific player need, original approach and expected behavior.",
+            "Identifies whether the issue involved task design, feedback, difficulty, motivation, transfer or insufficient evidence.",
+            "Explains the adjustment and why it better matched the learner and game demand.",
+            "Reports the outcome, remaining limitation and lesson applied later."
+          ],
+          "acceptable": "Describes a reasonable adjustment but gives incomplete diagnosis or outcome evidence.",
+          "weak_or_concerning": "Claims the method always works, blames the player or changes exercises without explaining the learning problem."
+        },
+        {
+          "question": "How do you adapt your technical coaching when players have different learning speeds or limitations?",
+          "evaluates": "Inclusive differentiation and realistic progression.",
+          "strong_answer_criteria": [
+            "Uses observation and player dialogue to identify current understanding and barriers.",
+            "Adjusts task complexity, repetition, cue type, demonstration, opposition and progression speed.",
+            "Maintains meaningful challenge without public comparison or permanent labeling.",
+            "Coordinates physical, medical, language or learning-support needs with responsible staff."
+          ],
+          "acceptable": "Provides extra explanation or modified tasks but gives limited diagnostic or progression detail.",
+          "weak_or_concerning": "Labels players as incapable, uses identical timelines, lowers expectations without a plan or works outside professional scope."
+        }
+      ]
+    },
+    {
+      "section_name": "F. Professionalism, Evaluation & Development",
+      "questions": [
+        {
+          "question": "What indicators do you use to evaluate technical improvement beyond match performance?",
+          "evaluates": "Reliable skill evaluation and learning evidence.",
+          "strong_answer_criteria": [
+            "Uses execution quality, consistency, speed, pressure tolerance, both-side competence where relevant and decision integration.",
+            "Compares planned tasks, representative training and repeated observation over time.",
+            "Uses individual baselines and role-specific criteria rather than universal rankings.",
+            "Distinguishes short-term task success from retention and transfer."
+          ],
+          "acceptable": "Uses relevant training observations and testing but gives limited context, reliability or transfer detail.",
+          "weak_or_concerning": "Counts repetitions alone, relies on one test or values isolated trick execution without game relevance."
+        },
+        {
+          "question": "What has been the toughest professional challenge you have faced as a Technical Development Coach, and how did you overcome it?",
+          "evaluates": "Resilience, accountability and problem-solving.",
+          "strong_answer_criteria": [
+            "Explains a specific challenge, constraints and personal responsibility.",
+            "Describes analysis, collaboration, decisions and communication.",
+            "Provides the outcome, remaining limitations and what was learned.",
+            "Shows how the lesson changed later methodology or staff practice."
+          ],
+          "acceptable": "Describes a relevant challenge and reasonable response but lacks outcome, accountability or reflection.",
+          "weak_or_concerning": "Blames players or colleagues, breaches confidentiality, avoids responsibility or provides no evidence of resolution."
+        },
+        {
+          "question": "How do you measure your effectiveness as a Technical Development Coach, and how has your methodology evolved over time?",
+          "evaluates": "Evaluation discipline, transfer and professional learning.",
+          "strong_answer_criteria": [
+            "Uses player improvement, retention, game transfer, staff feedback, engagement and decision usefulness.",
+            "Reviews progress over time and avoids attributing all change to specialist coaching.",
+            "Compares objectives with evidence and identifies unsuccessful as well as successful interventions.",
+            "Explains concrete methodological changes based on evidence, feedback or new contexts."
+          ],
+          "acceptable": "Mentions player improvement and transfer but gives limited measurement or evolution detail.",
+          "weak_or_concerning": "Claims sole credit, measures only drill performance or cannot describe any evidence-based methodological change."
+        }
+      ]
+    }
+  ],
+  "score_bands": [
+    {
+      "range": "61-72",
+      "percentage": "84.7-100%",
+      "interpretation": "Strong evidence of position readiness"
+    },
+    {
+      "range": "49-60",
+      "percentage": "68.1-83.3%",
+      "interpretation": "Good evidence; some development areas"
+    },
+    {
+      "range": "36-48",
+      "percentage": "50.0-66.7%",
+      "interpretation": "Basic / acceptable; evidence or depth is limited"
+    },
+    {
+      "range": "22-35",
+      "percentage": "30.6-48.6%",
+      "interpretation": "Weak evidence; significant follow-up required"
+    },
+    {
+      "range": "0-21",
+      "percentage": "0-29.2%",
+      "interpretation": "Insufficient or concerning evidence"
+    }
+  ],
+  "consistency_classification": [
+    {
+      "label": "Consistent",
+      "meaning": "The video supports and meaningfully expands the written response."
+    },
+    {
+      "label": "Partially consistent",
+      "meaning": "The central idea matches, but important technical detail, practice design, evidence or transfer process is missing."
+    },
+    {
+      "label": "Contradictory",
+      "meaning": "The video materially conflicts with a relevant written statement, creating uncertainty about the candidate’s actual experience, methodology, authority or position."
+    },
+    {
+      "label": "Unsupported claim",
+      "meaning": "The candidate claims qualifications, technical expertise or player-development impact without relevant explanation or verifiable support."
+    },
+    {
+      "label": "Role mismatch",
+      "meaning": "The answer may be positive generally but describes Technical Director, Head Coach, Skills Trainer or unrelated responsibilities instead of this role."
+    },
+    {
+      "label": "Insufficient evidence",
+      "meaning": "The response is too vague, incomplete or inaudible to evaluate confidently."
+    }
+  ],
+  "critical_human_review_flags": [
+    "Humiliating, threatening, discriminatory, coercive or physically unsafe treatment of players.",
+    "Ignoring safeguarding, medical restrictions, injury symptoms or return-to-play responsibilities.",
+    "Materially false or contradictory claims about qualifications, experience, authority or player-development impact.",
+    "Using complexity, repetition volume or personal demonstration ability as proof of learning without transfer evidence.",
+    "Making unsupported medical, psychological or learning-disability claims, or working beyond professional scope.",
+    "Sharing confidential player, family, medical, performance or development information without authorization.",
+    "Applying identical adult expectations to youth players without regard to learning, maturation, welfare or context.",
+    "A material written/video contradiction affecting ethics, experience, technical competence or leadership credibility."
+  ],
+  "required_output_fields": [
+    {
+      "field": "Score",
+      "description": "Integer from 0 to 4, based only on demonstrated response content."
+    }
+  ],
+  "implementation_controls": [
+    "Calculate the overall score only after all available responses have been scored; preserve unanswered questions as missing evidence.",
+    "Keep role-readiness classification separate from certification, reference, safeguarding and legal verification.",
+    "Do not automatically reject a candidate because of one low score or one contradiction; route material concerns and low-confidence cases to human review.",
+    "Log the rubric version, question ID, evidence span and human override reason so assessments remain auditable."
+  ]
+}

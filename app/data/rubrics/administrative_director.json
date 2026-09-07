@@ -1,0 +1,335 @@
+{
+  "role": "Administrative Director",
+  "purpose": "Position-specific questionnaire and developer-ready AI scoring criteria",
+  "question_count": 15,
+  "evaluation_approach": "The AI must evaluate each response specifically for the Administrative Director position. It should prioritize administrative leadership, operational control, financial discipline, reliable records, compliance awareness, people management, confidentiality, continuity and executive reporting. It must not apply On-Field Staff, general assistant, finance-director, legal-counsel or technical soccer criteria. Core principle: A strong candidate demonstrates more than organization and experience. Strong responses connect administrative judgment to a clear process, appropriate authority, evidence, control, communication and measurable operational outcome.",
+  "scoring_scale": [
+    {
+      "score": 4,
+      "classification": "Strong",
+      "meaning": "Role-specific, clear and supported by a relevant example, process or evidence"
+    },
+    {
+      "score": 3,
+      "classification": "Good",
+      "meaning": "Relevant and reasonably developed, but missing some depth, evidence or follow-through"
+    },
+    {
+      "score": 2,
+      "classification": "Acceptable",
+      "meaning": "Demonstrates basic understanding but remains generic or incomplete"
+    },
+    {
+      "score": 1,
+      "classification": "Weak",
+      "meaning": "Vague, minimally relevant, impractical or unsupported"
+    },
+    {
+      "score": 0,
+      "classification": "Incorrect / concerning",
+      "meaning": "Does not answer the question, contradicts the role, or reveals unsafe, unethical or unprofessional judgment"
+    }
+  ],
+  "mandatory_scoring_rules": [
+    "Score against Administrative Director expectations, not On-Field Staff, general administrative assistant, Finance Director, legal counsel or technical director criteria.",
+    "For questions requesting a real situation or example, do not award 4/4 unless the response includes the situation, the candidate’s action and the outcome.",
+    "For process questions, a 4/4 response should explain what the candidate would do, how, why and how completion or control effectiveness would be checked.",
+    "Distinguish being organized from demonstrated leadership, governance and operational control.",
+    "Treat relevant but generic answers as Acceptable or Good, not automatically Strong.",
+    "Do not infer authority, credentials, budgets, system access or results not stated by the candidate.",
+    "Do not reward bypassing controls merely because it appears faster or commercially convenient.",
+    "Flag material contradictions between questionnaire and video, but do not treat contradiction alone as proof of dishonesty.",
+    "Do not score accent, grammar, speaking speed, appearance, age, gender, ethnicity, disability or video production quality. Evaluate relevant content only.",
+    "Route material financial, legal, safeguarding, discrimination, privacy, security or credential concerns to qualified human review."
+  ],
+  "sections": [
+    {
+      "section_name": "A. Background, Role Understanding and Leadership",
+      "questions": [
+        {
+          "question": "Tell us about the administrative environments, teams and operations you have managed.",
+          "evaluates": "Relevant administrative leadership and scope.",
+          "strong_answer_criteria": [
+            "Identifies organizations, responsibilities, team size, systems and decision authority.",
+            "Explains personal ownership and measurable operational contribution.",
+            "Connects experience to a soccer organization’s administrative needs."
+          ],
+          "acceptable": "Provides relevant experience but limited scope, ownership or outcome evidence.",
+          "weak_or_concerning": "Relies on job titles alone, exaggerates authority or cannot explain actual responsibilities."
+        },
+        {
+          "question": "What is the role of an Administrative Director within a soccer club, academy or soccer organization?",
+          "evaluates": "Role clarity and organizational understanding.",
+          "strong_answer_criteria": [
+            "Connects administration to reliable daily operations and organizational objectives.",
+            "Includes people, policies, records, budgets, facilities, vendors, compliance and reporting as applicable.",
+            "Distinguishes administrative leadership from technical soccer decisions."
+          ],
+          "acceptable": "Identifies organization, coordination and support but omits key control or leadership responsibilities.",
+          "weak_or_concerning": "Treats the role as basic clerical work, personal authority over all departments or involvement in technical decisions outside the role."
+        },
+        {
+          "question": "How would you establish credibility and accountability when joining a new organization?",
+          "evaluates": "Leadership foundation and professional judgment.",
+          "strong_answer_criteria": [
+            "Listens, audits current operations and clarifies expectations before making major changes.",
+            "Defines responsibilities, service standards, decision rights and reporting routines.",
+            "Builds trust through consistency, confidentiality, evidence and follow-through."
+          ],
+          "acceptable": "Emphasizes communication and standards but gives limited sequence or practical method.",
+          "weak_or_concerning": "Promises immediate restructuring without evidence, relies on title or fear, or avoids accountability."
+        }
+      ]
+    },
+    {
+      "section_name": "B. Administrative Systems, Planning and Execution",
+      "questions": [
+        {
+          "question": "How would you assess and improve an organization’s administrative systems during your first 90 days?",
+          "evaluates": "Operational assessment and improvement planning.",
+          "strong_answer_criteria": [
+            "Maps processes, owners, risks, documents, systems, service levels and stakeholder needs.",
+            "Prioritizes by impact, urgency, compliance, effort and dependency.",
+            "Creates phased actions, measures, communication and review points."
+          ],
+          "acceptable": "Provides a reasonable audit and improvement plan but limited prioritization, ownership or measurement.",
+          "weak_or_concerning": "Changes systems immediately without understanding dependencies, controls, users or legal requirements."
+        },
+        {
+          "question": "How do you create, document and maintain policies and standard operating procedures?",
+          "evaluates": "Process design, governance and usability.",
+          "strong_answer_criteria": [
+            "Identifies the purpose, owner, users, approvals, controls and exceptions.",
+            "Consults relevant stakeholders and checks legal or governing requirements.",
+            "Uses version control, training, access, review dates and change communication."
+          ],
+          "acceptable": "Describes written procedures and approvals but limited testing, versioning or maintenance.",
+          "weak_or_concerning": "Copies generic policies, leaves documents outdated, or treats publication as proof of implementation."
+        },
+        {
+          "question": "Describe a major administrative project you led. What was the objective, your role, the execution, the outcome and the lesson?",
+          "evaluates": "Project ownership, evidence and reflection.",
+          "strong_answer_criteria": [
+            "Provides a specific situation, objective, scope, stakeholders and constraints.",
+            "Explains personal decisions, planning, risk control and follow-through.",
+            "Reports credible outcomes and a concrete lesson applied later."
+          ],
+          "acceptable": "Describes a relevant project but omits some ownership, evidence, result or learning detail.",
+          "weak_or_concerning": "Uses “we” without clarifying contribution, cannot identify outcomes or blames others for problems."
+        }
+      ]
+    },
+    {
+      "section_name": "C. Financial Control, Records and Compliance",
+      "questions": [
+        {
+          "question": "How do you plan, monitor and report an administrative budget?",
+          "evaluates": "Budget discipline and financial accountability.",
+          "strong_answer_criteria": [
+            "Builds assumptions from operational needs and approved priorities.",
+            "Tracks actuals, commitments, forecasts, variances and authorization limits.",
+            "Explains variances early and recommends evidence-based action."
+          ],
+          "acceptable": "Understands budgeting and expense monitoring but provides limited forecasting, controls or reporting detail.",
+          "weak_or_concerning": "Treats the approved budget as permission to spend, hides overruns or cannot distinguish committed and actual costs."
+        },
+        {
+          "question": "How would you ensure contracts, licenses, registrations, insurance and required organizational records remain accurate and current?",
+          "evaluates": "Records governance and compliance administration.",
+          "strong_answer_criteria": [
+            "Maintains a controlled register with owners, deadlines, status, evidence and renewal alerts.",
+            "Uses access controls, versioning, retention rules and periodic reconciliation.",
+            "Escalates missing, expired or uncertain requirements to qualified owners."
+          ],
+          "acceptable": "Uses calendars and organized records but provides limited ownership, reconciliation or escalation detail.",
+          "weak_or_concerning": "Relies on memory, stores uncontrolled copies, permits expired documents or claims legal conclusions outside competence."
+        },
+        {
+          "question": "What would you do if you discovered an unauthorized payment, missing record, expired requirement or control failure?",
+          "evaluates": "Integrity, incident response and control judgment.",
+          "strong_answer_criteria": [
+            "Protects evidence, limits further risk within authority and notifies the correct responsible person.",
+            "Documents facts without accusation and follows finance, legal, compliance or whistleblowing procedures.",
+            "Supports root-cause review and corrective controls while preserving confidentiality."
+          ],
+          "acceptable": "Would report and investigate appropriately but provides limited containment, evidence or follow-up detail.",
+          "weak_or_concerning": "Conceals the issue, alters records, confronts people recklessly or investigates beyond authority."
+        }
+      ]
+    },
+    {
+      "section_name": "D. People, Stakeholders and Operational Continuity",
+      "questions": [
+        {
+          "question": "How do you prioritize competing requests from executives, technical staff, finance, employees, parents and external partners?",
+          "evaluates": "Prioritization and stakeholder management.",
+          "strong_answer_criteria": [
+            "Uses organizational impact, urgency, risk, effort, dependency and decision authority.",
+            "Clarifies scope, owner, deadline and trade-offs.",
+            "Communicates decisions and changes early and documents commitments."
+          ],
+          "acceptable": "Uses a reasonable priority system but provides limited trade-off, documentation or escalation detail.",
+          "weak_or_concerning": "Accepts every request, prioritizes only by hierarchy or allows urgent interruptions to replace all planning."
+        },
+        {
+          "question": "How do you manage and develop an administrative team while maintaining service quality?",
+          "evaluates": "People leadership and performance management.",
+          "strong_answer_criteria": [
+            "Defines roles, workload, objectives, service standards and decision boundaries.",
+            "Uses regular feedback, coaching, development and fair performance management.",
+            "Plans coverage, cross-training, handovers and succession for critical tasks."
+          ],
+          "acceptable": "Provides clear direction and support but limited development, coverage or performance process.",
+          "weak_or_concerning": "Micromanages everything, delegates without controls, avoids difficult feedback or applies inconsistent standards."
+        },
+        {
+          "question": "How would you maintain operations during staff absence, system failure, event disruption or another unexpected interruption?",
+          "evaluates": "Continuity planning and response leadership.",
+          "strong_answer_criteria": [
+            "Identifies critical services, dependencies, backups, contacts, authority and recovery priorities.",
+            "Uses documented contingencies, tested access and clear internal communication.",
+            "Records decisions, reviews the incident and improves the plan."
+          ],
+          "acceptable": "Can organize temporary coverage and communication but lacks tested contingencies or post-incident review.",
+          "weak_or_concerning": "Has no backup plan, relies on one person or system, communicates late or makes unapproved commitments."
+        }
+      ]
+    },
+    {
+      "section_name": "E. Ethics, Confidentiality and Organizational Impact",
+      "questions": [
+        {
+          "question": "How do you protect confidential employee, player, parent, financial and organizational information?",
+          "evaluates": "Confidentiality, privacy and access judgment.",
+          "strong_answer_criteria": [
+            "Uses need-to-know access, approved systems, secure transmission, retention and disposal controls.",
+            "Recognizes additional sensitivity around minors, medical, identity and financial information.",
+            "Escalates suspected breaches and avoids promising secrecy outside policy."
+          ],
+          "acceptable": "Shows sound confidentiality and security awareness but limited incident, retention or youth-data detail.",
+          "weak_or_concerning": "Shares passwords or files casually, accesses information without purpose, stores sensitive data in personal tools or discusses it publicly."
+        },
+        {
+          "question": "What would you do if a senior leader asked you to bypass a control, change a record, hide a problem or approve something outside your authority?",
+          "evaluates": "Integrity, professional challenge and escalation.",
+          "strong_answer_criteria": [
+            "Identifies governance, legal, financial and reputational risks.",
+            "Clarifies the request, refuses improper action and offers a compliant alternative.",
+            "Documents the matter and follows the appropriate escalation or protected-reporting route."
+          ],
+          "acceptable": "Recognizes the concern and would seek guidance but provides limited documentation or escalation detail.",
+          "weak_or_concerning": "Complies because of seniority, changes records, bypasses authorization or retaliates against concerns."
+        },
+        {
+          "question": "How do you demonstrate that administration contributes to the organization’s overall goals?",
+          "evaluates": "Organizational impact and executive reporting.",
+          "strong_answer_criteria": [
+            "Connects administrative work to reliability, cost control, compliance, staff capacity, member service and risk reduction.",
+            "Uses relevant service levels, cycle times, accuracy, budget variance, issue resolution and stakeholder feedback.",
+            "Explains limitations and uses findings to change priorities or processes."
+          ],
+          "acceptable": "Uses several operational indicators but provides limited connection to decisions or organizational outcomes.",
+          "weak_or_concerning": "Reports only activity volume, hides negative results or cannot explain how administration supports the organization."
+        }
+      ]
+    }
+  ],
+  "score_bands": [
+    {
+      "range": "51-60",
+      "percentage": "85.0-100%",
+      "interpretation": "Strong evidence of readiness for the role"
+    },
+    {
+      "range": "41-50",
+      "percentage": "68.3-83.3%",
+      "interpretation": "Good evidence; some development areas"
+    },
+    {
+      "range": "30-40",
+      "percentage": "50.0-66.7%",
+      "interpretation": "Basic / acceptable; supervision or development may be needed"
+    },
+    {
+      "range": "18-29",
+      "percentage": "30.0-48.3%",
+      "interpretation": "Weak evidence; significant follow-up required"
+    },
+    {
+      "range": "0-17",
+      "percentage": "0-28.3%",
+      "interpretation": "Insufficient or concerning evidence"
+    }
+  ],
+  "consistency_classification": [
+    {
+      "label": "Consistent",
+      "meaning": "The video supports and meaningfully expands the written response."
+    },
+    {
+      "label": "Partially consistent",
+      "meaning": "The central idea matches, but important practical detail, process or evidence is missing."
+    },
+    {
+      "label": "Contradictory",
+      "meaning": "The video materially conflicts with a relevant written statement, creating uncertainty about the candidate’s experience, authority, approach or results."
+    },
+    {
+      "label": "Unsupported claim",
+      "meaning": "The candidate claims qualifications, authority, budget responsibility, team leadership, compliance ownership or impact without relevant explanation or verifiable support."
+    },
+    {
+      "label": "Role mismatch",
+      "meaning": "The answer may be positive generally but describes clerical support, Finance Director, legal counsel, technical soccer leadership or unrelated responsibilities instead of this role."
+    },
+    {
+      "label": "Insufficient evidence",
+      "meaning": "The response is too vague, incomplete or inaudible to evaluate confidently."
+    }
+  ],
+  "critical_human_review_flags": [
+    "Concealing, altering or destroying financial, employment, registration, compliance or operational records.",
+    "Approving spending, contracts or commitments outside assigned authority.",
+    "Ignoring expired licenses, insurance, registrations, safeguarding requirements or material control failures.",
+    "Sharing confidential employee, player, parent, medical, identity, financial or organizational information without authorization.",
+    "Password sharing, unauthorized access or insecure handling of sensitive systems and records.",
+    "Discriminatory, retaliatory, threatening or exploitative leadership conduct.",
+    "Materially false or contradictory claims about qualifications, authority, budgets, team size or results.",
+    "Refusal to escalate serious legal, financial, safeguarding, security or continuity risks."
+  ],
+  "required_output_fields": [
+    {
+      "field": "question_id",
+      "description": "1–15"
+    },
+    {
+      "field": "score",
+      "description": "Integer from 0 to 4"
+    },
+    {
+      "field": "confidence",
+      "description": "High / Medium / Low"
+    },
+    {
+      "field": "evidence",
+      "description": "Relevant statement or demonstrated process from the response"
+    },
+    {
+      "field": "missing_evidence",
+      "description": "Information required for a stronger or more reliable assessment"
+    },
+    {
+      "field": "consistency_classification",
+      "description": "Consistent / Partially consistent / Contradictory / Unsupported claim / Role mismatch / Insufficient evidence"
+    },
+    {
+      "field": "red_flags",
+      "description": "None or specific human-review flag"
+    },
+    {
+      "field": "rationale",
+      "description": "Short role-specific explanation"
+    }
+  ],
+  "implementation_controls": []
+}

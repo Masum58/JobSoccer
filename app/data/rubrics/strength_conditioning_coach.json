@@ -1,0 +1,367 @@
+{
+  "role": "Strength & Conditioning Coach",
+  "purpose": "Developer-ready position-specific scoring rubric",
+  "question_count": 18,
+  "evaluation_approach": "The AI must evaluate each response specifically for the Strength & Conditioning Coach position in soccer. It must assess applied sport science, program design, physical-development judgment, integration with football training, load management, communication, adaptability, player welfare and professional boundaries. There is no single required periodization model, testing battery, monitoring platform or exercise system. Core principle: A strong response explains how physical preparation is planned, dosed, monitored, integrated and adjusted to improve soccer performance and availability while protecting player health and respecting medical and coaching decision boundaries.",
+  "scoring_scale": [
+    {
+      "score": 4,
+      "classification": "Strong",
+      "meaning": "Role-specific, clear and supported by a relevant process, example or evidence"
+    },
+    {
+      "score": 3,
+      "classification": "Good",
+      "meaning": "Relevant and developed, but missing some depth, verification or outcome"
+    },
+    {
+      "score": 2,
+      "classification": "Acceptable",
+      "meaning": "Basic understanding, but generic, incomplete or weakly evidenced"
+    },
+    {
+      "score": 1,
+      "classification": "Weak",
+      "meaning": "Vague, minimally relevant, impractical or unsupported"
+    },
+    {
+      "score": 0,
+      "classification": "Incorrect / concerning",
+      "meaning": "Does not answer the question or reveals serious safety, ethical, technical or professional concerns"
+    }
+  ],
+  "mandatory_scoring_rules": [
+    "Score against Strength & Conditioning Coach expectations, not Physiotherapist, Athletic Trainer, Head Coach, Sports Scientist or personal trainer criteria.",
+    "Do not require one specific periodization model, exercise, test, monitoring tool or software brand; evaluate rationale, dose, integration and follow-through.",
+    "For questions requesting a real situation, do not award 4/4 without the situation, action and outcome.",
+    "Reward soccer-specific integration without requiring every physical quality to be trained only through ball-based exercises.",
+    "Do not reward unsafe intensity, excessive volume, punitive conditioning or claims that one method can prevent all injuries.",
+    "Do not infer medical authority, qualifications, certification, technology proficiency or impact that the candidate did not demonstrate.",
+    "Flag contradictions between the written questionnaire and video response, but do not treat a contradiction alone as proof of dishonesty.",
+    "Treat return-to-play diagnosis and medical clearance as health-professional responsibilities; reward appropriate referral and interdisciplinary decision-making.",
+    "Do not score accent, grammar, appearance, age, gender, ethnicity, disability or production quality. Evaluate response content only."
+  ],
+  "sections": [
+    {
+      "section_name": "A. Background & Role Definition",
+      "questions": [
+        {
+          "question": "Can you describe your background and pathway to becoming a Strength & Conditioning Coach in soccer?",
+          "evaluates": "Relevant education, applied experience and progression into soccer performance.",
+          "strong_answer_criteria": [
+            "Identifies relevant academic preparation, recognized certifications, internships, mentoring or applied coaching experience.",
+            "Explains actual responsibilities, populations, competition levels and progression over time.",
+            "Connects prior work to soccer-specific planning, testing, load management and interdisciplinary practice.",
+            "Shows continuing professional development and respects the limits of personal qualifications."
+          ],
+          "acceptable": "Describes relevant preparation or experience but provides limited detail about responsibilities, progression or soccer application.",
+          "weak_or_concerning": "Relies only on personal training, playing experience or passion; exaggerates credentials; or cannot connect experience to the role."
+        },
+        {
+          "question": "How do you define your role within a football performance department?",
+          "evaluates": "Role clarity, contribution and professional boundaries.",
+          "strong_answer_criteria": [
+            "Defines responsibility for physical preparation, testing, monitoring, recovery support and physical-development planning.",
+            "Explains how physical objectives support the coach’s playing model and the player pathway.",
+            "Distinguishes S&C responsibilities from medical diagnosis, rehabilitation clearance, nutrition and final team-selection authority.",
+            "Recognizes documentation, confidentiality, safeguarding and communication responsibilities."
+          ],
+          "acceptable": "Identifies physical preparation and monitoring responsibilities but leaves some boundaries or collaboration processes unclear.",
+          "weak_or_concerning": "Describes the role as maximizing fitness at any cost, claims medical authority, or works independently from the technical and medical plan."
+        },
+        {
+          "question": "How do you collaborate with the Head Coach and medical staff to align performance objectives?",
+          "evaluates": "Interdisciplinary planning, communication and decision governance.",
+          "strong_answer_criteria": [
+            "Uses regular planning conversations, shared terminology and clearly defined decision rights.",
+            "Translates tactical and match demands into physical objectives while integrating medical restrictions and availability information.",
+            "Shares concise evidence, uncertainty and recommendations without overstepping professional scope.",
+            "Documents adjustments, escalates health concerns and respects medical return-to-play authority."
+          ],
+          "acceptable": "Describes regular communication and shared planning but gives limited detail about decision rights, documentation or disagreement.",
+          "weak_or_concerning": "Bypasses the coach or medical staff, treats data as final authority, discloses medical information inappropriately or pressures unavailable players."
+        }
+      ]
+    },
+    {
+      "section_name": "B. Technical & Tactical Expertise",
+      "questions": [
+        {
+          "question": "How do you integrate the tactical demands of soccer into physical preparation programs?",
+          "evaluates": "Soccer specificity and integration with football training.",
+          "strong_answer_criteria": [
+            "Clarifies the playing model, training objectives, match schedule and key movement demands before planning.",
+            "Develops qualities such as acceleration, high-speed running, repeat efforts, deceleration and change of direction in relevant contexts.",
+            "Coordinates gym, field and football content to complement rather than duplicate or disrupt tactical work.",
+            "Progresses overload while preserving technical quality, recovery and player availability."
+          ],
+          "acceptable": "Links conditioning to soccer movements and the coach’s plan but lacks detail about integration, progression or interference.",
+          "weak_or_concerning": "Uses generic fitness sessions unrelated to football demands, adds volume without coordination or treats tactical drills as automatically sufficient."
+        },
+        {
+          "question": "How do you adapt conditioning work according to position-specific requirements?",
+          "evaluates": "Position profiling, individualization and avoidance of stereotypes.",
+          "strong_answer_criteria": [
+            "Uses actual team roles, match exposure and individual needs rather than position labels alone.",
+            "Considers sprint distance, acceleration, deceleration, collision, repeated-effort and recovery demands where relevant.",
+            "Adjusts volume, intensity, work-rest structure and exercise selection while retaining common team foundations.",
+            "Reviews GPS, video, testing, injury history and coach feedback over time."
+          ],
+          "acceptable": "Provides reasonable positional adaptations but uses limited evidence or individual review.",
+          "weak_or_concerning": "Applies rigid stereotypes, gives every player identical work, or overloads players to match a single peak-demand number."
+        },
+        {
+          "question": "How do you analyze match demands to inform training design?",
+          "evaluates": "Demand analysis, data interpretation and practical translation.",
+          "strong_answer_criteria": [
+            "Uses reliable tracking, video, event, exposure and contextual information across an appropriate sample.",
+            "Examines intensity, peak periods, accelerations, high-speed running, game state, tactical role and schedule context.",
+            "Checks data quality, device consistency, thresholds and uncertainty before drawing conclusions.",
+            "Turns findings into training targets and reviews whether the intervention improved readiness or performance."
+          ],
+          "acceptable": "Uses match data to set training objectives but provides limited context, validation or follow-up.",
+          "weak_or_concerning": "Uses averages alone, treats one match as definitive, compares incompatible data or copies professional benchmarks without context."
+        }
+      ]
+    },
+    {
+      "section_name": "C. Training Methodology & Planning",
+      "questions": [
+        {
+          "question": "How do you structure a weekly Strength & Conditioning program to support soccer performance?",
+          "evaluates": "Microcycle planning, integration and readiness.",
+          "strong_answer_criteria": [
+            "Works backward from match and training demands, player minutes, medical status and weekly priorities.",
+            "Coordinates recovery, strength, speed, conditioning, top-ups and tapering with football sessions.",
+            "Differentiates starters, substitutes, non-selected, returning and development players.",
+            "Explains intended dose, quality criteria, monitoring and adjustment rather than listing exercises only."
+          ],
+          "acceptable": "Describes a logical weekly sequence but lacks individualization, dose rationale or integration with football work.",
+          "weak_or_concerning": "Uses a fixed weekly template regardless of matches and exposure, places high-load work poorly or cannot explain the purpose of sessions."
+        },
+        {
+          "question": "How do you plan physical development across a full season?",
+          "evaluates": "Periodization, long-term development and adaptation.",
+          "strong_answer_criteria": [
+            "Uses calendar demands, baseline needs, competition phases and club priorities to create an adaptable annual framework.",
+            "Sequences strength, speed, power, conditioning and recovery objectives while maintaining key qualities in season.",
+            "Builds testing and review points without over-testing or chasing constant peaks.",
+            "Adjusts the plan based on exposure, response, availability and schedule changes."
+          ],
+          "acceptable": "Describes preseason, in-season and transition phases but gives limited detail about maintenance, monitoring or adaptation.",
+          "weak_or_concerning": "Uses rigid periodization, aims to peak continuously, stops strength work in season or ignores fixture and player-response changes."
+        },
+        {
+          "question": "How do you adapt your methodology for youth players compared with senior players?",
+          "evaluates": "Maturation-aware development, safety and age-appropriate coaching.",
+          "strong_answer_criteria": [
+            "Prioritizes movement competence, coordination, speed exposure, progressive strength and long-term athletic development.",
+            "Considers training age, biological maturation, growth-related sensitivity, school load and psychosocial readiness.",
+            "Uses qualified supervision, age-appropriate language and technique-led progression rather than arbitrary age restrictions.",
+            "Avoids early specialization and adult loads while still providing safe, progressive resistance training."
+          ],
+          "acceptable": "Recognizes that youth need progressive, development-focused work but gives limited detail about maturation, supervision or load progression.",
+          "weak_or_concerning": "Treats youth as smaller adults, bans all strength training without basis, uses punitive conditioning or ignores growth and safeguarding concerns."
+        }
+      ]
+    },
+    {
+      "section_name": "D. Performance Principles & Load Management",
+      "questions": [
+        {
+          "question": "What are your key physical-performance principles for soccer players, and how do they align with the team’s playing model?",
+          "evaluates": "Coherent performance philosophy and football alignment.",
+          "strong_answer_criteria": [
+            "Explains a concise set of principles for robustness, strength, speed, power, repeatability, movement quality and availability.",
+            "Links physical qualities to observable tactical behaviors and positional roles.",
+            "Balances general physical foundations with individual and model-specific requirements.",
+            "Defines how principles influence assessment, exercise selection, progression and review."
+          ],
+          "acceptable": "Names relevant physical qualities and links some to football demands but lacks a coherent application framework.",
+          "weak_or_concerning": "Presents disconnected slogans, prioritizes gym numbers over football contribution or assumes one physical profile fits every playing model."
+        },
+        {
+          "question": "How do you manage training loads, recovery and player availability during congested schedules?",
+          "evaluates": "Risk management, prioritization and interdisciplinary judgment.",
+          "strong_answer_criteria": [
+            "Integrates match minutes, training exposure, travel, turnaround time, wellness, medical status and tactical needs.",
+            "Prioritizes recovery and maintenance while using individualized top-ups for underexposed players.",
+            "Communicates uncertainty and adapts volume or intensity without promising injury prevention.",
+            "Tracks availability trends and coordinates decisions with technical and medical staff."
+          ],
+          "acceptable": "Describes reduced load, recovery and monitoring but lacks individualization, decision thresholds or staff integration.",
+          "weak_or_concerning": "Uses blanket rest or blanket conditioning, relies on a single metric, ignores travel or medical restrictions, or claims to eliminate injury risk."
+        },
+        {
+          "question": "What tools or indicators do you use to monitor physical performance and fatigue?",
+          "evaluates": "Measurement selection, reliability and decision usefulness.",
+          "strong_answer_criteria": [
+            "Selects a practical combination of exposure, external load, internal response, wellness, performance and medical information.",
+            "Explains the purpose, collection consistency, baseline or individual comparison and data-quality checks for each indicator.",
+            "Uses trends and multiple signals rather than one universal cutoff.",
+            "Protects player data and converts monitoring into clear actions or follow-up questions."
+          ],
+          "acceptable": "Names relevant tools such as GPS, session RPE, wellness, jump or strength measures but gives limited interpretation or action logic.",
+          "weak_or_concerning": "Lists technology without a workflow, treats one number as diagnostic, compares unreliable data or ignores consent and confidentiality."
+        }
+      ]
+    },
+    {
+      "section_name": "E. Adaptability & Decision-Making",
+      "questions": [
+        {
+          "question": "Describe a situation where your physical-preparation plan had to be adjusted due to injuries, congestion or constraints.",
+          "evaluates": "Applied adaptability, diagnosis and follow-through.",
+          "strong_answer_criteria": [
+            "Provides a specific context, original plan and new constraint.",
+            "Explains consultation, evidence and the physical qualities or exposures that still needed protection.",
+            "Describes the adjusted dose, method, schedule or individualization and why it was chosen.",
+            "Reports the outcome, limitation and lesson carried into later planning."
+          ],
+          "acceptable": "Provides a reasonable adjustment but gives incomplete context, rationale or outcome.",
+          "weak_or_concerning": "Claims plans never need adjustment, changes work without diagnosis, or blames injuries and schedule while ignoring modifiable planning factors."
+        },
+        {
+          "question": "Tell us about a time when you had to make a difficult decision prioritizing player health over short-term performance.",
+          "evaluates": "Health-first judgment, courage and professional boundaries.",
+          "strong_answer_criteria": [
+            "Describes a specific health or readiness concern and the available evidence.",
+            "Communicates promptly with the player, medical staff and coach through the correct decision pathway.",
+            "Recommends restriction, modification or removal within scope and respects medical clearance authority.",
+            "Explains the outcome without claiming certainty or disclosing confidential information."
+          ],
+          "acceptable": "Describes a cautious decision and appropriate communication but lacks specific evidence, governance or follow-up.",
+          "weak_or_concerning": "Ignores warning signs, allows competitive pressure to override restrictions, makes an independent diagnosis or guarantees that participation is safe."
+        },
+        {
+          "question": "How do you adapt your work when resources, time or infrastructure are limited?",
+          "evaluates": "Resourcefulness, prioritization and minimum safe standards.",
+          "strong_answer_criteria": [
+            "Identifies the highest-value physical objectives and minimum equipment, space, staffing and safety requirements.",
+            "Uses simple, scalable methods, group organization and consistent low-cost monitoring.",
+            "Adjusts exercise selection without compromising progression, supervision or individual restrictions.",
+            "Communicates limitations, documents risk and seeks support when safe delivery is not possible."
+          ],
+          "acceptable": "Offers practical alternatives and prioritizes key work but gives limited detail about safety, progression or measurement.",
+          "weak_or_concerning": "Uses lack of resources as a reason for no plan, improvises unsafe activities or presents technology as necessary for competent practice."
+        }
+      ]
+    },
+    {
+      "section_name": "F. Professionalism, Evaluation & Development",
+      "questions": [
+        {
+          "question": "What do you consider to be your main strengths as a Strength & Conditioning Coach, and which areas are you improving?",
+          "evaluates": "Self-awareness, credibility and professional-development planning.",
+          "strong_answer_criteria": [
+            "Identifies role-relevant strengths supported by concrete examples or feedback.",
+            "Names a genuine development area without disguising a strength or claiming competence beyond scope.",
+            "Describes specific study, mentoring, observation, practice or feedback actions.",
+            "Connects development to safer and more effective contribution to players and staff."
+          ],
+          "acceptable": "Names relevant strengths and an improvement area but provides limited evidence or action plan.",
+          "weak_or_concerning": "Uses clichés, claims no meaningful weakness, exaggerates expertise or identifies development unrelated to the role."
+        },
+        {
+          "question": "What has been the toughest professional challenge you have faced in this role, and how did you overcome it?",
+          "evaluates": "Resilience, accountability and structured problem-solving.",
+          "strong_answer_criteria": [
+            "Explains a specific challenge, constraints and personal responsibility.",
+            "Describes analysis, collaboration, decisions and communication under pressure.",
+            "Provides the outcome, remaining limitations and what was learned.",
+            "Shows how the lesson changed later systems or coaching practice."
+          ],
+          "acceptable": "Describes a relevant challenge and reasonable response but lacks outcome, accountability or reflection.",
+          "weak_or_concerning": "Blames coaches, players or medical staff, breaches confidentiality, avoids responsibility or provides no evidence of resolution."
+        },
+        {
+          "question": "How do you measure success beyond injury rates and fitness tests, and how has your methodology evolved over time?",
+          "evaluates": "Outcome evaluation, learning and understanding of contribution versus causation.",
+          "strong_answer_criteria": [
+            "Uses availability, training quality, physical action capacity, repeat exposure, player development, coach feedback and transfer to football performance.",
+            "Recognizes that injuries and results have multiple causes and avoids claiming direct prevention or causation.",
+            "Compares trends and individual responses over appropriate time periods.",
+            "Explains concrete methodological changes based on evidence, feedback, context or new responsibilities."
+          ],
+          "acceptable": "Mentions availability and football performance beyond testing but gives limited measurement detail or methodological evolution.",
+          "weak_or_concerning": "Defines success only through test scores or injury counts, claims to prevent all injuries, or cannot describe any evidence-based change."
+        }
+      ]
+    }
+  ],
+  "score_bands": [
+    {
+      "range": "61-72",
+      "percentage": "84.7-100%",
+      "interpretation": "Strong evidence of position readiness"
+    },
+    {
+      "range": "49-60",
+      "percentage": "68.1-83.3%",
+      "interpretation": "Good evidence; some development areas"
+    },
+    {
+      "range": "36-48",
+      "percentage": "50.0-66.7%",
+      "interpretation": "Basic / acceptable; evidence or depth is limited"
+    },
+    {
+      "range": "22-35",
+      "percentage": "30.6-48.6%",
+      "interpretation": "Weak evidence; significant follow-up required"
+    },
+    {
+      "range": "0-21",
+      "percentage": "0-29.2%",
+      "interpretation": "Insufficient or concerning evidence"
+    }
+  ],
+  "consistency_classification": [
+    {
+      "label": "Consistent",
+      "meaning": "The video supports and meaningfully expands the written response."
+    },
+    {
+      "label": "Partially consistent",
+      "meaning": "The central idea matches, but important programming detail, evidence, safety process or follow-through is missing."
+    },
+    {
+      "label": "Contradictory",
+      "meaning": "The video materially conflicts with a relevant written statement, creating uncertainty about the candidate’s actual experience, approach, qualification or position."
+    },
+    {
+      "label": "Unsupported claim",
+      "meaning": "The candidate claims qualifications, medical authority, technology proficiency or performance impact without relevant explanation or verifiable support."
+    },
+    {
+      "label": "Role mismatch",
+      "meaning": "The answer may be positive generally but describes Physiotherapist, Athletic Trainer, Head Coach or generic personal-training responsibilities instead of this role."
+    },
+    {
+      "label": "Insufficient evidence",
+      "meaning": "The response is too vague, incomplete or inaudible to evaluate confidently."
+    }
+  ],
+  "critical_human_review_flags": [
+    "Ignoring medical restrictions, warning signs, emergency procedures or player-reported symptoms.",
+    "Diagnosing injury, independently clearing return to play or presenting S&C monitoring as a medical diagnosis.",
+    "Punitive, humiliating, discriminatory, coercive or developmentally inappropriate conditioning practices.",
+    "Materially false or contradictory claims about qualifications, certification, experience, technology proficiency or outcomes.",
+    "Guaranteeing injury prevention, treating one metric as definitive or manipulating data to support a preferred decision.",
+    "Unsafe loading, poor supervision or inappropriate adult training demands for youth players.",
+    "Improper disclosure or insecure handling of player health, wellness, performance or location data.",
+    "Routine conflict with technical or medical staff that creates risk to player health or availability."
+  ],
+  "required_output_fields": [
+    {
+      "field": "Score",
+      "description": "Integer from 0 to 4, based only on demonstrated response content."
+    }
+  ],
+  "implementation_controls": [
+    "Calculate the overall score only after all available responses have been scored; preserve unanswered questions as missing evidence.",
+    "Keep role-readiness classification separate from certification, reference, safeguarding and legal verification.",
+    "Do not automatically reject a candidate because of one low score or one contradiction; route material concerns and low-confidence cases to human review.",
+    "Log the rubric version, question ID, evidence span and human override reason so assessments remain auditable."
+  ]
+}

@@ -1,0 +1,351 @@
+{
+  "role": "Digital Marketing",
+  "purpose": "Position-specific questionnaire and developer-ready AI scoring criteria",
+  "question_count": 15,
+  "evaluation_approach": "The AI must evaluate each response specifically for the Digital Marketing position. It should prioritize strategic thinking, audience understanding, practical execution, measurement, business contribution, ethical data use, brand protection, collaboration and reliable delivery. It must not apply On-Field Staff criteria or assume that the candidate is a Marketing Director unless the position explicitly requires leadership of a department. Core principle: A strong candidate demonstrates more than platform familiarity or content production. Strong responses connect a clear objective to an audience, process, channel choice, measurement method, decision and credible outcome.",
+  "scoring_scale": [
+    {
+      "score": 4,
+      "classification": "Strong",
+      "meaning": "Role-specific, clear and supported by a relevant example, process or evidence"
+    },
+    {
+      "score": 3,
+      "classification": "Good",
+      "meaning": "Relevant and reasonably developed, but missing some depth, evidence or follow-through"
+    },
+    {
+      "score": 2,
+      "classification": "Acceptable",
+      "meaning": "Demonstrates basic understanding but remains generic or incomplete"
+    },
+    {
+      "score": 1,
+      "classification": "Weak",
+      "meaning": "Vague, minimally relevant, impractical or unsupported"
+    },
+    {
+      "score": 0,
+      "classification": "Incorrect / concerning",
+      "meaning": "Does not answer the question, contradicts the role, or reveals unsafe, unethical or unprofessional judgment"
+    }
+  ],
+  "mandatory_scoring_rules": [
+    "Score against Digital Marketing expectations, not Marketing Director, general Office Staff, influencer, graphic designer or On-Field Staff criteria.",
+    "For questions requesting a real situation or example, do not award 4/4 unless the response includes the situation, the candidate’s action and the outcome.",
+    "For process questions, a 4/4 response should explain what the candidate would do, how, why and how success would be checked.",
+    "Distinguish familiarity with a platform from demonstrated marketing competence.",
+    "Treat relevant but generic answers as Acceptable or Good, not automatically Strong.",
+    "Do not infer budgets, results, credentials, permissions, technical access or ownership that the candidate did not state.",
+    "Do not reward vanity metrics unless the candidate explains their relationship to the campaign objective.",
+    "Flag material contradictions between questionnaire and video, but do not treat contradiction alone as proof of dishonesty.",
+    "Do not score accent, grammar, speaking speed, appearance, age, gender, ethnicity, disability or video production quality. Evaluate relevant content only.",
+    "Do not reward confidence, length, jargon, follower counts or platform names unless the content is relevant and supported.",
+    "Route material privacy, consent, youth-content, discrimination, deception, security or credential concerns to qualified human review."
+  ],
+  "sections": [
+    {
+      "section_name": "A. Background, Role Understanding and Motivation",
+      "questions": [
+        {
+          "question": "Tell us about your digital-marketing experience and the types of organizations, audiences, or campaigns you have supported.",
+          "evaluates": "Relevant experience and transferable preparation.",
+          "strong_answer_criteria": [
+            "Identifies specific roles, organizations, audiences, channels, budgets or campaign types.",
+            "Explains actual responsibilities and personal contribution.",
+            "Connects prior experience to acquisition, engagement, conversion, retention or brand objectives.",
+            "Distinguishes individual work from team results."
+          ],
+          "acceptable": "Provides relevant experience but limited detail about responsibilities, scale, outcomes or personal contribution.",
+          "weak_or_concerning": "Relies only on interest in social media or soccer, exaggerates experience, or cannot connect prior work to the position."
+        },
+        {
+          "question": "Why do you want to work in digital marketing for a soccer organization?",
+          "evaluates": "Motivation, soccer-sector awareness and career alignment.",
+          "strong_answer_criteria": [
+            "Shows genuine interest in the role beyond being a soccer fan.",
+            "Recognizes the different needs of players, parents, coaches, clubs, academies and partners.",
+            "Connects personal development goals to realistic organizational contribution."
+          ],
+          "acceptable": "Shows positive motivation but gives generic reasons or limited understanding of the soccer market.",
+          "weak_or_concerning": "Focuses only on access, status, visibility, famous players or personal promotion."
+        },
+        {
+          "question": "What do you believe are the main responsibilities of a Digital Marketing professional in a soccer organization?",
+          "evaluates": "Role clarity and realistic expectations.",
+          "strong_answer_criteria": [
+            "Includes audience research, planning, content, distribution, acquisition, conversion, analytics and optimization.",
+            "Connects marketing activity to organizational goals and stakeholder needs.",
+            "Recognizes brand governance, consent, data protection and cross-department collaboration."
+          ],
+          "acceptable": "Identifies content, social media and reporting but omits important commercial, analytical or governance responsibilities.",
+          "weak_or_concerning": "Defines the role only as posting on social media, making graphics or increasing followers."
+        }
+      ]
+    },
+    {
+      "section_name": "B. Strategy and Campaign Planning",
+      "questions": [
+        {
+          "question": "How would you build a 90-day digital-marketing plan for a soccer platform entering a new market?",
+          "evaluates": "Strategic planning and structured execution.",
+          "strong_answer_criteria": [
+            "Audits the market, audience, positioning, current assets, funnel and baseline.",
+            "Defines measurable objectives, priorities, channel roles, budget, owners and timeline.",
+            "Includes testing, reporting, review points and clear assumptions.",
+            "Connects acquisition with activation, retention and referral where relevant."
+          ],
+          "acceptable": "Provides a logical campaign calendar and objectives but limited audience evidence, budgeting, ownership or review process.",
+          "weak_or_concerning": "Starts publishing immediately without an audit, target audience, measurable objective, budget or conversion path."
+        },
+        {
+          "question": "How do you identify and prioritize target audiences for a digital campaign?",
+          "evaluates": "Segmentation, targeting and audience judgment.",
+          "strong_answer_criteria": [
+            "Uses first-party data, interviews, behavior, market evidence and organizational priorities.",
+            "Defines segments through needs, eligibility, intent, value and channel behavior.",
+            "Explains exclusions, consent limitations and how priorities are tested."
+          ],
+          "acceptable": "Uses basic personas or demographics but provides limited validation, prioritization logic or testing.",
+          "weak_or_concerning": "Targets everyone, relies on stereotypes, or uses personal data without an appropriate purpose or permission."
+        },
+        {
+          "question": "Describe a digital campaign you planned or managed. What was the objective, your role, the execution, the result and the lesson?",
+          "evaluates": "Campaign ownership, evidence and reflection.",
+          "strong_answer_criteria": [
+            "Provides a specific situation, objective, audience and baseline.",
+            "Explains personal decisions, actions, resources and constraints.",
+            "Reports relevant results with context and does not overclaim attribution.",
+            "States the lesson and a concrete change made afterward."
+          ],
+          "acceptable": "Describes a relevant campaign but omits some ownership, measurement, outcome or learning detail.",
+          "weak_or_concerning": "Uses “we” without clarifying personal contribution, provides vanity metrics only, or cannot describe an actual campaign."
+        }
+      ]
+    },
+    {
+      "section_name": "C. Content, Channels and Brand Execution",
+      "questions": [
+        {
+          "question": "Walk us through your content process from audience insight to creation, approval, publication, distribution and review.",
+          "evaluates": "Content methodology and operational discipline.",
+          "strong_answer_criteria": [
+            "Uses objectives and audience insight to define content pillars and briefs.",
+            "Includes production, brand review, accessibility, consent, scheduling, distribution and reuse.",
+            "Defines content KPIs by purpose or funnel stage.",
+            "Uses performance findings to improve future work."
+          ],
+          "acceptable": "Explains a workable content workflow but provides limited approval, measurement, accessibility or optimization detail.",
+          "weak_or_concerning": "Treats posting frequency as the strategy, has no review process, or cannot connect content to an objective."
+        },
+        {
+          "question": "How would you adapt one campaign message for players, parents, coaches, clubs, academies and commercial partners?",
+          "evaluates": "Audience-specific communication and brand consistency.",
+          "strong_answer_criteria": [
+            "Keeps one core value proposition while adapting tone, proof, format, channel and call to action.",
+            "Distinguishes each audience’s needs, authority and decision role.",
+            "Uses age-appropriate communication and appropriate parental or organizational context for minors."
+          ],
+          "acceptable": "Recognizes that messages should change by audience but gives limited examples or brand-control detail.",
+          "weak_or_concerning": "Uses the same message for everyone, relies on pressure or stereotypes, or communicates inappropriately with minors."
+        },
+        {
+          "question": "How do you decide which organic, paid, email, search, website or partner channels should be used for a campaign?",
+          "evaluates": "Channel strategy and integrated execution.",
+          "strong_answer_criteria": [
+            "Selects channels according to audience behavior, objective, funnel stage, cost, creative requirements and measurement capability.",
+            "Explains how channels work together rather than operating independently.",
+            "Considers budget, testing, frequency, landing experience and operational capacity."
+          ],
+          "acceptable": "Selects reasonable channels and gives some rationale but lacks integration, cost, funnel or measurement depth.",
+          "weak_or_concerning": "Chooses channels only because they are popular, copies competitors, or recommends being active everywhere without priorities."
+        }
+      ]
+    },
+    {
+      "section_name": "D. Analytics, Optimization and Business Impact",
+      "questions": [
+        {
+          "question": "Which KPIs would you use to evaluate awareness, engagement, lead generation, conversion and retention?",
+          "evaluates": "Measurement literacy and KPI selection.",
+          "strong_answer_criteria": [
+            "Separates diagnostic channel metrics from business outcomes.",
+            "Matches KPIs to the campaign objective and funnel stage.",
+            "May use qualified reach, engagement quality, CTR, conversion rate, CPL/CAC, lead quality, activation, retention, pipeline or revenue as appropriate.",
+            "Defines baselines, targets, reporting windows and limitations."
+          ],
+          "acceptable": "Names several relevant KPIs but does not fully connect them to objectives, baselines or decisions.",
+          "weak_or_concerning": "Uses followers, likes or impressions as universal proof of success or guarantees business results from one metric."
+        },
+        {
+          "question": "A campaign is underperforming after launch. How do you diagnose the problem and decide what to change first?",
+          "evaluates": "Problem solving, testing and optimization.",
+          "strong_answer_criteria": [
+            "Checks tracking integrity and data quality before judging performance.",
+            "Examines audience, offer, creative, placement, funnel step, landing page and follow-up.",
+            "Forms a hypothesis, prioritizes by likely impact and tests a controlled change.",
+            "Defines the decision threshold and documents the learning."
+          ],
+          "acceptable": "Reviews relevant performance factors and makes a reasonable adjustment but lacks tracking validation, prioritization or test design.",
+          "weak_or_concerning": "Immediately increases spend, changes everything simultaneously, or optimizes only toward likes and impressions."
+        },
+        {
+          "question": "How do you show whether digital-marketing activity is contributing to organizational goals?",
+          "evaluates": "Business impact, reporting and attribution judgment.",
+          "strong_answer_criteria": [
+            "Maps activity to qualified actions, conversion, activation, retention, pipeline or revenue.",
+            "Uses shared definitions, source tracking, CRM or operational handoff and stakeholder reporting.",
+            "Recognizes attribution limits and avoids claiming causation without evidence.",
+            "Explains how findings change budgets, content or priorities."
+          ],
+          "acceptable": "Connects marketing metrics to some organizational outcomes but provides limited handoff, attribution or decision detail.",
+          "weak_or_concerning": "Reports disconnected traffic or engagement as business impact and cannot explain how marketing supports organizational goals."
+        }
+      ]
+    },
+    {
+      "section_name": "E. Collaboration, Ethics and Professional Reliability",
+      "questions": [
+        {
+          "question": "How do you manage competing requests from leadership, sales, operations, technical staff and external partners?",
+          "evaluates": "Prioritization, communication and cross-department collaboration.",
+          "strong_answer_criteria": [
+            "Uses objective, impact, urgency, effort, risk and dependencies to prioritize.",
+            "Clarifies decision rights, owners, deadlines and approval requirements.",
+            "Makes trade-offs visible, documents decisions and communicates changes early."
+          ],
+          "acceptable": "Coordinates requests and communicates priorities but uses a limited decision process or follow-through system.",
+          "weak_or_concerning": "Accepts every request, prioritizes only by seniority, misses deadlines silently or blames other departments."
+        },
+        {
+          "question": "What would you do if asked to publish a misleading claim, hide poor results, or use an audience list without confirmed permission?",
+          "evaluates": "Integrity, professional challenge and escalation.",
+          "strong_answer_criteria": [
+            "Identifies accuracy, consent, legal, reputational and audience-trust risks.",
+            "Challenges the request respectfully and explains the evidence.",
+            "Offers a truthful alternative, documents the concern and follows escalation procedures.",
+            "Refuses materially deceptive or unauthorized execution."
+          ],
+          "acceptable": "Recognizes the concern and would seek guidance but provides limited escalation, documentation or alternative action.",
+          "weak_or_concerning": "Follows the request because leadership approved it, manipulates reporting, or uses data without checking authorization."
+        },
+        {
+          "question": "How would you protect personal data, account access and digital content involving youth players while remaining reliable throughout the season?",
+          "evaluates": "Data protection, safeguarding awareness and operational reliability.",
+          "strong_answer_criteria": [
+            "Uses role-based access, secure credentials, approved tools and accurate records.",
+            "Checks consent, usage rights, approval, retention and removal requirements for content.",
+            "Applies additional care to minors and escalates legal or safeguarding questions.",
+            "Explains punctuality, calendar management, handover, incident reporting and early communication about conflicts."
+          ],
+          "acceptable": "Shows basic privacy, password and reliability awareness but lacks a complete process or youth-specific safeguards.",
+          "weak_or_concerning": "Shares passwords, publishes minors without appropriate authorization, stores personal data casually, or has no continuity process."
+        }
+      ]
+    }
+  ],
+  "score_bands": [
+    {
+      "range": "51-60",
+      "percentage": "85.0-100%",
+      "interpretation": "Strong evidence of readiness for the role"
+    },
+    {
+      "range": "41-50",
+      "percentage": "68.3-83.3%",
+      "interpretation": "Good evidence; some development areas"
+    },
+    {
+      "range": "30-40",
+      "percentage": "50.0-66.7%",
+      "interpretation": "Basic / acceptable; supervision or development may be needed"
+    },
+    {
+      "range": "18-29",
+      "percentage": "30.0-48.3%",
+      "interpretation": "Weak evidence; significant follow-up required"
+    },
+    {
+      "range": "0-17",
+      "percentage": "0-28.3%",
+      "interpretation": "Insufficient or concerning evidence"
+    }
+  ],
+  "consistency_classification": [
+    {
+      "label": "Consistent",
+      "meaning": "The video supports and meaningfully expands the written response."
+    },
+    {
+      "label": "Partially consistent",
+      "meaning": "The central idea matches, but important practical detail, process or evidence is missing."
+    },
+    {
+      "label": "Contradictory",
+      "meaning": "The video materially conflicts with a relevant written statement, creating uncertainty about the candidate’s actual experience, ownership, approach or results."
+    },
+    {
+      "label": "Unsupported claim",
+      "meaning": "The candidate claims credentials, access, experience, budget responsibility, campaign impact or results without relevant explanation or verifiable support."
+    },
+    {
+      "label": "Role mismatch",
+      "meaning": "The answer may be positive generally but describes Marketing Director, sales, influencer, graphic-design, general Office Staff or unrelated responsibilities instead of this role."
+    },
+    {
+      "label": "Insufficient evidence",
+      "meaning": "The response is too vague, incomplete or inaudible to evaluate confidently."
+    }
+  ],
+  "critical_human_review_flags": [
+    "Misleading claims, fabricated results, hidden poor performance or manipulated reporting.",
+    "Use of personal data, email lists, tracking or audience targeting without confirmed authorization or appropriate purpose.",
+    "Publication or reuse of youth-player content without appropriate approval, consent or safeguarding controls.",
+    "Password sharing, insecure account practices or unauthorized access to organizational systems.",
+    "Discriminatory, exploitative, humiliating or deceptive targeting or content.",
+    "Materially false or contradictory claims about experience, credentials, budgets, platform access or campaign impact.",
+    "Disclosure of confidential candidate, player, club, commercial or performance information.",
+    "Repeated inability to distinguish marketing activity from measurable organizational contribution."
+  ],
+  "required_output_fields": [
+    {
+      "field": "question_id",
+      "description": "1–15"
+    },
+    {
+      "field": "score",
+      "description": "Integer from 0 to 4"
+    },
+    {
+      "field": "confidence",
+      "description": "High / Medium / Low"
+    },
+    {
+      "field": "evidence",
+      "description": "Relevant statement or demonstrated process from the response"
+    },
+    {
+      "field": "missing_evidence",
+      "description": "Information required for a stronger or more reliable assessment"
+    },
+    {
+      "field": "consistency_classification",
+      "description": "Consistent / Partially consistent / Contradictory / Unsupported claim / Role mismatch / Insufficient evidence"
+    },
+    {
+      "field": "red_flags",
+      "description": "None or specific human-review flag"
+    },
+    {
+      "field": "rationale",
+      "description": "Short role-specific explanation"
+    }
+  ],
+  "implementation_controls": [
+    "Store this rubric under the distinct role ID Digital Marketing.",
+    "For each response return: score (0–4), confidence level, evidence from the answer, missing evidence, consistency classification, red flags and a short rationale.",
+    "Keep score separate from confidence.",
+    "A low-confidence response should be reviewed rather than automatically treated as weak.",
+    "Material privacy, consent, youth-content, security, discrimination, deception and credential flags must always be routed to qualified human review."
+  ]
+}

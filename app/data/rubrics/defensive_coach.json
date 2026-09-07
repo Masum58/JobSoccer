@@ -1,0 +1,367 @@
+{
+  "role": "Defensive Coach",
+  "purpose": "Developer-ready position-specific scoring rubric",
+  "question_count": 18,
+  "evaluation_approach": "The AI must evaluate each response specifically for the Defensive Coach position in soccer. It must assess defensive tactical understanding, observation, training design, individual and collective development, communication, staff alignment, adaptability and professional judgment. There is no single required defensive shape, pressing system, block height or coaching methodology. Core principle: A strong response explains how defensive principles are translated into observable player behaviors, representative training, coordinated staff messages and evidence-based adjustments within the Head Coach’s overall playing model.",
+  "scoring_scale": [
+    {
+      "score": 4,
+      "classification": "Strong",
+      "meaning": "Role-specific, clear and supported by a relevant process, example or evidence"
+    },
+    {
+      "score": 3,
+      "classification": "Good",
+      "meaning": "Relevant and developed, but missing some depth, verification or outcome"
+    },
+    {
+      "score": 2,
+      "classification": "Acceptable",
+      "meaning": "Basic understanding, but generic, incomplete or weakly evidenced"
+    },
+    {
+      "score": 1,
+      "classification": "Weak",
+      "meaning": "Vague, minimally relevant, impractical or unsupported"
+    },
+    {
+      "score": 0,
+      "classification": "Incorrect / concerning",
+      "meaning": "Does not answer the question or reveals serious safety, ethical, technical or professional concerns"
+    }
+  ],
+  "mandatory_scoring_rules": [
+    "Score against Defensive Coach expectations, not Head Coach, general Assistant Coach, Video Analyst or Strength & Conditioning Coach criteria.",
+    "Do not require one specific formation, pressing system, block height or defensive philosophy; evaluate internal logic, context and implementation.",
+    "For questions requesting a real situation, do not award 4/4 without the situation, action and outcome.",
+    "Reward whole-team defensive understanding; do not limit the role to center backs, tackling or low-block organization.",
+    "Do not confuse aggression, clean sheets or tackle volume with high-quality defending without tactical context.",
+    "Do not infer qualifications, authority, impact or analysis expertise that the candidate did not demonstrate.",
+    "Flag contradictions between the written questionnaire and video response, but do not treat a contradiction alone as proof of dishonesty.",
+    "Do not reward humiliating, discriminatory, physically unsafe or punitive defensive coaching practices.",
+    "Do not score accent, grammar, appearance, age, gender, ethnicity, disability or production quality. Evaluate response content only."
+  ],
+  "sections": [
+    {
+      "section_name": "A. Background & Role Definition",
+      "questions": [
+        {
+          "question": "Can you describe your background and pathway to becoming a Defensive Coach?",
+          "evaluates": "Relevant coaching preparation and progression into defensive specialization.",
+          "strong_answer_criteria": [
+            "Identifies relevant coaching, playing, analysis, education or specialist-development experience.",
+            "Explains actual defensive responsibilities, team levels, age groups and progression over time.",
+            "Connects prior work to individual defending, unit organization and team defensive behavior.",
+            "Shows continuing learning rather than relying only on playing position or reputation."
+          ],
+          "acceptable": "Describes relevant experience but provides limited detail about responsibilities, environments or development.",
+          "weak_or_concerning": "Relies only on having played as a defender, lists licenses without application or exaggerates specialist experience."
+        },
+        {
+          "question": "How do you define the role and responsibilities of a Defensive Coach within a technical staff?",
+          "evaluates": "Role clarity, contribution and boundaries within the coaching team.",
+          "strong_answer_criteria": [
+            "Defines support for defensive principles, individual roles, unit work, transitions, pressing and set-piece contribution as assigned.",
+            "Explains observation, planning, delivery, feedback and review responsibilities.",
+            "Recognizes that the Head Coach owns the overall model, selection and final tactical decisions.",
+            "Coordinates with other coaches and protects consistent team messaging."
+          ],
+          "acceptable": "Identifies defensive training and tactical support but leaves workflow or authority boundaries unclear.",
+          "weak_or_concerning": "Describes taking control of all defending independently, contradicting the Head Coach or focusing only on defenders rather than team behavior."
+        },
+        {
+          "question": "How do you align your defensive work with the Head Coach’s overall tactical vision?",
+          "evaluates": "Tactical alignment, communication and implementation discipline.",
+          "strong_answer_criteria": [
+            "Clarifies the playing model, match plan, terminology, risk preferences and current priorities.",
+            "Translates the vision into observable behaviors by phase, line, unit and role.",
+            "Plans content with the Head Coach and integrates it into whole-team work.",
+            "Uses feedback and match evidence to adjust without promoting a competing defensive philosophy."
+          ],
+          "acceptable": "States that defensive work follows the Head Coach’s plan but gives limited detail about translation or coordination.",
+          "weak_or_concerning": "Imposes a preferred block or pressing style regardless of the team model, or gives players conflicting instructions."
+        }
+      ]
+    },
+    {
+      "section_name": "B. Technical & Tactical Expertise",
+      "questions": [
+        {
+          "question": "How do you analyze opponent attacking patterns and threats?",
+          "evaluates": "Opposition analysis, evidence quality and defensive relevance.",
+          "strong_answer_criteria": [
+            "Reviews build-up, progression, chance creation, transitions, set pieces and key player relationships.",
+            "Looks for repeated behaviors across matches, game states, zones and opponent selections.",
+            "Separates patterns from isolated incidents and checks footage or data quality.",
+            "Converts findings into prioritized defensive tasks suited to the team’s strengths and match plan."
+          ],
+          "acceptable": "Identifies opponent strengths and patterns with some supporting evidence but gives limited prioritization or validation.",
+          "weak_or_concerning": "Draws conclusions from one clip or match, lists threats without defensive implications or overwhelms players with information."
+        },
+        {
+          "question": "How do you teach defensive decision-making and positioning?",
+          "evaluates": "Contextual learning, perception and actionable coaching.",
+          "strong_answer_criteria": [
+            "Creates realistic situations involving ball, space, teammates, opponents, goal and tactical purpose.",
+            "Coaches scanning, distance, body orientation, timing, cover, pressure and risk decisions.",
+            "Uses questions, guided feedback, repetition and variable problems rather than fixed movements only.",
+            "Separates decision quality from execution outcome and adapts feedback to role and age."
+          ],
+          "acceptable": "Uses game-related exercises and clear positioning points but provides limited perception, variation or review detail.",
+          "weak_or_concerning": "Teaches positions as static spots, judges choices only by outcome or uses constant stopping and instruction that removes decision-making."
+        },
+        {
+          "question": "How do you train players to recognize defensive triggers and cues?",
+          "evaluates": "Perception-action connection and collective coordination.",
+          "strong_answer_criteria": [
+            "Defines observable cues such as pass direction, touch quality, pressure, body shape, support and field position.",
+            "Links cues to agreed actions such as press, cover, drop, squeeze, track or delay.",
+            "Trains cues progressively in representative situations with communication and shared timing.",
+            "Checks transfer under realistic speed, opposition and game-state variation."
+          ],
+          "acceptable": "Names relevant cues and actions but gives limited progression, collective timing or transfer assessment.",
+          "weak_or_concerning": "Uses memorized commands without perceptual context, introduces too many triggers or assumes all situations require the same response."
+        }
+      ]
+    },
+    {
+      "section_name": "C. Defensive Methodology & Training Design",
+      "questions": [
+        {
+          "question": "How do you structure defensive training sessions to develop individual and collective defensive behaviors?",
+          "evaluates": "Objective-led design, progression and integration.",
+          "strong_answer_criteria": [
+            "Starts with a clear defensive objective linked to current needs and the team model.",
+            "Progresses from targeted individual or unit detail to representative collective situations where appropriate.",
+            "Controls space, numbers, direction, rules, transitions and rest to create the intended problem.",
+            "Includes observation criteria, coaching interventions and a final transfer or review activity."
+          ],
+          "acceptable": "Describes a logical warm-up, practice and game progression but gives limited load, constraint or transfer rationale.",
+          "weak_or_concerning": "Lists drills without objectives, isolates technique for the whole session or overloads players with disconnected defensive topics."
+        },
+        {
+          "question": "What defensive principles guide your work - positioning, duels, compactness and pressing?",
+          "evaluates": "Coherent defensive framework and contextual application.",
+          "strong_answer_criteria": [
+            "Defines clear principles for protecting goal and central space, pressure, cover, balance, compactness and communication.",
+            "Explains duel behaviors without treating defending as duels alone.",
+            "Connects pressing, block height and line behavior to the team model and match context.",
+            "Clarifies trade-offs and adaptations rather than presenting universal rules."
+          ],
+          "acceptable": "Explains several sound defensive principles but gives limited hierarchy, interaction or context.",
+          "weak_or_concerning": "Uses slogans without observable behaviors, focuses only on aggression or requires one defensive solution for every situation."
+        },
+        {
+          "question": "How do you adapt your defensive methodology to different age groups and competitive levels?",
+          "evaluates": "Developmental appropriateness and scalable complexity.",
+          "strong_answer_criteria": [
+            "Adjusts language, field size, numbers, information load, role detail and feedback to age and experience.",
+            "Builds individual foundations before demanding complex collective coordination.",
+            "Considers maturation, physical differences, training frequency and competition demands.",
+            "Maintains common principles while changing method and complexity."
+          ],
+          "acceptable": "Recognizes the need for simpler youth work and greater senior detail but gives limited progression or welfare context.",
+          "weak_or_concerning": "Treats youth as smaller adults, imposes senior tactical complexity or avoids teaching defending until a certain age."
+        }
+      ]
+    },
+    {
+      "section_name": "D. Defensive Game Model & Communication",
+      "questions": [
+        {
+          "question": "How do you integrate defensive principles into the team’s overall playing model?",
+          "evaluates": "Whole-model integration and connection between phases.",
+          "strong_answer_criteria": [
+            "Links defending to attacking structure, rest defense, counterpressing, recovery and transition behavior.",
+            "Defines responsibilities by phase, zone, unit and game state within the Head Coach’s model.",
+            "Coordinates training so defensive work supports rather than competes with attacking objectives.",
+            "Uses common terminology and reviews execution over multiple matches."
+          ],
+          "acceptable": "Links defensive principles to the team model but provides limited phase connection or implementation detail.",
+          "weak_or_concerning": "Treats defending as a separate department, focuses only on low-block behavior or contradicts attacking and transition principles."
+        },
+        {
+          "question": "How do you work on defensive organization in different phases - block, transition and set pieces?",
+          "evaluates": "Phase-specific organization and continuity.",
+          "strong_answer_criteria": [
+            "Defines objectives, starting structure, roles and communication for organized defending.",
+            "Trains immediate reactions to loss, recovery priorities, delay, protection and reorganization.",
+            "Coordinates set-piece roles, second balls and transition after clearances with responsible staff.",
+            "Connects phases through realistic repetition rather than training each as an isolated script."
+          ],
+          "acceptable": "Covers block, transition and set-piece organization but gives limited connection, progression or role detail.",
+          "weak_or_concerning": "Focuses only on one phase, uses rigid choreography without cues or ignores transitions before and after set pieces."
+        },
+        {
+          "question": "How do you communicate defensive concepts clearly to players to ensure understanding and execution?",
+          "evaluates": "Clarity, shared language and confirmation of learning.",
+          "strong_answer_criteria": [
+            "Uses concise terminology, clear demonstrations, selected video and age-appropriate examples.",
+            "Limits messages to priority behaviors and explains why they matter.",
+            "Checks understanding through player explanation, rehearsal and observed execution.",
+            "Adapts communication by player role and language needs without humiliating mistakes."
+          ],
+          "acceptable": "Explains concepts clearly and demonstrates them but gives limited checking of understanding or adaptation.",
+          "weak_or_concerning": "Uses excessive jargon, long lectures, public blame or assumes players understand because they remain silent."
+        }
+      ]
+    },
+    {
+      "section_name": "E. Leadership, Collaboration & Adaptability",
+      "questions": [
+        {
+          "question": "How do you collaborate with other specialist coaches to ensure tactical balance?",
+          "evaluates": "Staff integration, shared ownership and consistent messaging.",
+          "strong_answer_criteria": [
+            "Uses regular planning to connect defensive, attacking, goalkeeper, set-piece and physical objectives.",
+            "Agrees terminology, priorities, session ownership and intervention roles.",
+            "Identifies conflicts or overload and resolves them privately with the Head Coach.",
+            "Shares relevant observations while respecting specialist boundaries and confidentiality."
+          ],
+          "acceptable": "Describes regular collaboration and aligned planning but leaves ownership or conflict resolution unclear.",
+          "weak_or_concerning": "Works in isolation, competes for session time, contradicts other coaches publicly or protects defensive metrics at the expense of team performance."
+        },
+        {
+          "question": "Describe a situation where a defensive plan did not work as expected. What adjustments did you make?",
+          "evaluates": "Accountability, live diagnosis and adaptation.",
+          "strong_answer_criteria": [
+            "Provides a specific opponent, plan, expected behavior and observed problem.",
+            "Diagnoses structure, distances, timing, personnel, communication or opponent adaptation rather than blaming effort alone.",
+            "Explains the adjustment, how it was communicated and its tactical trade-offs.",
+            "Reports the outcome and lesson without claiming certainty from a short result."
+          ],
+          "acceptable": "Describes a reasonable tactical adjustment but gives incomplete diagnosis, communication or outcome evidence.",
+          "weak_or_concerning": "Claims the plan never fails, blames players exclusively or changes shape without explaining the underlying problem."
+        },
+        {
+          "question": "How do you adapt your defensive work when players have different profiles, strengths or limitations?",
+          "evaluates": "Individualization within collective principles.",
+          "strong_answer_criteria": [
+            "Profiles speed, strength, mobility, perception, communication, duel qualities and role experience using evidence.",
+            "Preserves core principles while adjusting distances, cover, responsibilities, pairings or exercise constraints.",
+            "Creates individual development priorities without labeling players permanently.",
+            "Coordinates physical or medical restrictions with appropriate staff and avoids diagnosis."
+          ],
+          "acceptable": "Adapts roles or coaching detail to player strengths but gives limited evidence or collective trade-off analysis.",
+          "weak_or_concerning": "Forces identical behavior regardless of profile, hides players permanently or makes unsupported physical or psychological conclusions."
+        }
+      ]
+    },
+    {
+      "section_name": "F. Professionalism, Evaluation & Development",
+      "questions": [
+        {
+          "question": "What indicators do you use to evaluate defensive performance beyond goals conceded?",
+          "evaluates": "Balanced measurement and contextual interpretation.",
+          "strong_answer_criteria": [
+            "Uses chance quality allowed, entries, box protection, pressing outcomes, transition control, duels in context and set-piece execution.",
+            "Includes compactness, line coordination, recovery, communication and repeated principle execution through video observation.",
+            "Considers opponent quality, game state, possession strategy and sample size.",
+            "Avoids claiming that one metric proves defensive quality or causation."
+          ],
+          "acceptable": "Uses several relevant team and individual indicators but gives limited context, validation or connection to principles.",
+          "weak_or_concerning": "Measures only clean sheets, tackles or goals conceded, rewards passive defending automatically or uses metrics without video context."
+        },
+        {
+          "question": "What has been the toughest professional challenge you have faced as a Defensive Coach, and how did you overcome it?",
+          "evaluates": "Resilience, accountability and problem-solving.",
+          "strong_answer_criteria": [
+            "Explains a specific challenge, constraints and personal responsibility.",
+            "Describes analysis, collaboration, decisions and communication.",
+            "Provides the outcome, remaining limitations and what was learned.",
+            "Shows how the lesson changed later methodology or staff practice."
+          ],
+          "acceptable": "Describes a relevant challenge and reasonable response but lacks outcome, accountability or reflection.",
+          "weak_or_concerning": "Blames players or colleagues, breaches confidentiality, avoids responsibility or provides no evidence of resolution."
+        },
+        {
+          "question": "How do you measure your effectiveness as a Defensive Coach, and how has your methodology evolved over time?",
+          "evaluates": "Evaluation discipline, learning and appropriate attribution.",
+          "strong_answer_criteria": [
+            "Uses execution of agreed principles, player improvement, training transfer, staff feedback and decision usefulness.",
+            "Reviews patterns over time rather than attributing one result directly to coaching.",
+            "Recognizes shared responsibility for defensive outcomes across the staff and team.",
+            "Explains concrete methodological changes based on evidence, feedback or new contexts."
+          ],
+          "acceptable": "Mentions player and team improvement beyond results but gives limited measurement or evolution detail.",
+          "weak_or_concerning": "Claims sole credit for clean sheets, measures only goals conceded or cannot describe any evidence-based methodological change."
+        }
+      ]
+    }
+  ],
+  "score_bands": [
+    {
+      "range": "61-72",
+      "percentage": "84.7-100%",
+      "interpretation": "Strong evidence of position readiness"
+    },
+    {
+      "range": "49-60",
+      "percentage": "68.1-83.3%",
+      "interpretation": "Good evidence; some development areas"
+    },
+    {
+      "range": "36-48",
+      "percentage": "50.0-66.7%",
+      "interpretation": "Basic / acceptable; evidence or depth is limited"
+    },
+    {
+      "range": "22-35",
+      "percentage": "30.6-48.6%",
+      "interpretation": "Weak evidence; significant follow-up required"
+    },
+    {
+      "range": "0-21",
+      "percentage": "0-29.2%",
+      "interpretation": "Insufficient or concerning evidence"
+    }
+  ],
+  "consistency_classification": [
+    {
+      "label": "Consistent",
+      "meaning": "The video supports and meaningfully expands the written response."
+    },
+    {
+      "label": "Partially consistent",
+      "meaning": "The central idea matches, but important tactical detail, training process, evidence or coordination is missing."
+    },
+    {
+      "label": "Contradictory",
+      "meaning": "The video materially conflicts with a relevant written statement, creating uncertainty about the candidate’s actual experience, philosophy, authority or position."
+    },
+    {
+      "label": "Unsupported claim",
+      "meaning": "The candidate claims qualifications, tactical expertise or defensive impact without relevant explanation or verifiable support."
+    },
+    {
+      "label": "Role mismatch",
+      "meaning": "The answer may be positive generally but describes Head Coach, generic Assistant Coach, Video Analyst or unrelated responsibilities instead of this role."
+    },
+    {
+      "label": "Insufficient evidence",
+      "meaning": "The response is too vague, incomplete or inaudible to evaluate confidently."
+    }
+  ],
+  "critical_human_review_flags": [
+    "Humiliating, threatening, discriminatory, coercive or physically unsafe treatment of players.",
+    "Punitive conditioning, dangerous contact practices or ignoring medical and return-to-play restrictions.",
+    "Materially false or contradictory claims about qualifications, experience, authority or defensive impact.",
+    "Publicly blaming individual players for goals or disclosing confidential tactical, medical or personal information.",
+    "Persistent conflict with the Head Coach or other specialists that creates contradictory instructions or tactical imbalance.",
+    "Using results, tackle counts or isolated clips as definitive proof while ignoring contextual or contrary evidence.",
+    "Applying identical senior defensive complexity to youth players without regard to learning, maturation or welfare.",
+    "A material written/video contradiction affecting ethics, experience, tactical competence or leadership credibility."
+  ],
+  "required_output_fields": [
+    {
+      "field": "Score",
+      "description": "Integer from 0 to 4, based only on demonstrated response content."
+    }
+  ],
+  "implementation_controls": [
+    "Calculate the overall score only after all available responses have been scored; preserve unanswered questions as missing evidence.",
+    "Keep role-readiness classification separate from certification, reference, safeguarding and legal verification.",
+    "Do not automatically reject a candidate because of one low score or one contradiction; route material concerns and low-confidence cases to human review.",
+    "Log the rubric version, question ID, evidence span and human override reason so assessments remain auditable."
+  ]
+}
